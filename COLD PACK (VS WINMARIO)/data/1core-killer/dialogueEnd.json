@@ -1,0 +1,85 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "mac",
+			"speed": 0.07,
+			"portrait": "mace",
+			"boxState": "normal",
+			"expression": "terror",
+			"text": "I FELT F/CKING HORRIFYING."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Yeah! You Deserve It!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "And... wait.... Who is that... Gray Person... It looks like he needs help!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace",
+			"boxState": "angry",
+			"expression": "rage",
+			"text": "THAT'S NOT YOUR F/CKING BUSINESS."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Excuse Me?! Don't Use that tone of language at me! What in the World is wrong with you?!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.2,
+			"portrait": "mace",
+			"boxState": "normal",
+			"expression": "terror",
+			"text": "..."
+		},
+		{
+			"sound": "mac",
+			"speed": 0.085,
+			"portrait": "mace",
+			"boxState": "normal",
+			"expression": "terror",
+			"text": "You know what? leave. now. I am now sick..."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.04,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "OH I CAN LEAVE? WELL THANK YOU SO MUCH FOR PLAYING MY GAME."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Mario left."
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace",
+			"boxState": "normal",
+			"expression": "anger",
+			"text": "Finnaly... That Fatass is gone..."
+		}
+	]
+}

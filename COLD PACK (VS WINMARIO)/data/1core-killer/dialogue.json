@@ -1,0 +1,61 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Uhh... Where am I?!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace",
+			"boxState": "normal",
+			"expression": "aggressivenes",
+			"text": "Mario... I am glad you're here, But sadly, it's time for you die."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.04,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "DIE?!?!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.04,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "THAT'S NEVER GONNA HAPPEN!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace",
+			"boxState": "normal",
+			"expression": "serenity",
+			"text": "You wanna bet? Do something! Ha HA HA!!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.035,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU ARE LIKE BOWSER."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU MONSTER!!"
+		}
+	]
+}
