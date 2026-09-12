@@ -1,0 +1,85 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Woah! How did you come in?!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.07,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "awe",
+			"text": "uhhh... from the pipe...?"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.065,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh... I forgot to close the Pipe... Well... please don't tresspassed here again..."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, Do you like to take a look at this place?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "amazement 2",
+			"text": "Yes... I do!! It's Lovely!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "amazement 2",
+			"text": "I love the Galaxy!!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yippee!!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "Anyways...? Can we have a another round?"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "okie dokie!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "I think... that's a yes."
+		}
+	]
+}

@@ -1,0 +1,205 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "What in the World am I?!?! This is a Second Time that they are trapping me inside the portals!!"
+		},
+		{
+			"sound": "99",
+			"speed": 0.055,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh... What's Up... Mario?"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.04,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "NO, DON'T SAY \"WHAT'S UP\" TO ME, WHERE THE HELL AM I?!?!"
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "My Doom!! Where I will murder Everybody on every Universe including You."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.04,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU MONSTER!!!!! NOW I HAD TO PUT THE END TO THIS, RIGHT NOW."
+		},
+		{
+			"sound": "99",
+			"speed": 0.055,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh... The Fat Short Italian Red Plumber, doesn't know about me..."
+		},
+		{
+			"sound": "99",
+			"speed": 0.055,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Well... Mario... To tell you the truth... I'm a Glitch... So that means... it's impossible for you to kill me..."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So... better figure it out, how to get rid of me... because I will do it FIRST."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.22,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know? I've got an Idea! Let's play \"Mario's Friday Night Funkin\"!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's where We sing, to see who won."
+		},
+		{
+			"sound": "99",
+			"speed": 0.065,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh... Uh... Ok?"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "So, Let's a make deal! If you won... Then That's indeed Game Over for me!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.06,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But If I Win..."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "then you have to SELF DESTRUCT YOURSELF."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah, Yeah, One thing..."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Have you been inside of the Portal before? If so... do you know that person you just met?"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Yes I went to the Portal before... & no Idk whose that person is... but... DO YOU HAVE SOMETHING TO DO WITH THIS?"
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well... That's MacOS Wario... That's one of my victims... I captured him since the New Years of 2025."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow, Thank you for your Information."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "but that's evil... and you still didn't answer my question... DO. YOU. HAVE. SOMETHING. TO. DO. WITH. THIS."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "With the portal? Hell Yeah!!! That's Me! I made that, so I can Torment you to death!!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i hope... you go to... HELL. That way you can learn to REPENT yourself to GOD."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Heh. Now C'mon Plumber boy... The crowd is waiting for us to start..."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.04,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "THERE IS NO CROWD. AND NOW WE WILL START THE CHALLENGE NOW."
+		}
+	]
+}

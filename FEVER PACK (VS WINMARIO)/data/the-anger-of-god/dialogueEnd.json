@@ -1,0 +1,53 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "99",
+			"speed": 0.035,
+			"portrait": "99",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "ARE YOU F***ING KIDDING ME RIGHT NOW?!?!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Oh, what's matter? You're upset, because you lost? That's Too Bad, Now go Self Destruct-"
+		},
+		{
+			"sound": "99",
+			"speed": 0.03,
+			"portrait": "99",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "SHUT THE F*** UP. OR I WILL TREAT YOU LIKE IT'S EARLY 1940s B!TCH."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.04,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "OK, THAT'S OFFENSIVE. YOU KNOW WHAT?! YOU'RE AN ANGRY, DREADFUL VIOLENT PERSON, THAT NOBODY DOESN'T WANT "
+		},
+		{
+			"sound": "mario",
+			"speed": 0.04,
+			"portrait": "mario",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU IN THIS UNIVERSE. THERE ARE PEOPLE IN THIS UNIVERSE WHO ACT, JUST LIKE YOU."
+		},
+		{
+			"sound": "99",
+			"speed": 0.03,
+			"portrait": "99",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I FUCKING HAD IT WITH YOUR BULLSHIT, YOU KNOW WHAT?! COME MEET MY TRUE FINAL FORM."
+		}
+	]
+}

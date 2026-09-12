@@ -1,0 +1,29 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "W3LL, Y0U'V3 FU(K3D UP N0W. L37'$ H@V3 @N07H3R R0UND $H@LL W3? BU7 7H1$ 71M3. 17 W1LL B3 V3RY H@RD."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.065,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh my goodness... You've Mutilated yourself..."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.06,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "But Now, I need to end this..."
+		}
+	]
+}

@@ -1,0 +1,325 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.065,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "Huh... Is it just me... or is the WinXP Hill... Blue... Strange..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Hey, WinMario buddy!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "Oh hey, BF."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I want to you to introduced to him, The one that I was his biggest Fan!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Wait... do you love Mario?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.07,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "Yeah...? Why?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "he-mad-ohno-2",
+			"text": "Well... Do you also like Sonic?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.065,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "anticipation",
+			"text": "Yeah... but wait, is Sonic Here???"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Yeah, it's Sonic, but the reason why I bring him in, because..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad1",
+			"text": "It looks like... In this Mod... you are paying more attention to Mario, more than Sonic."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad3",
+			"text": "& everyone is expecting to be a different character-"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "remorse",
+			"text": "Look... For your infomation... I look at the FNF Community, & it seems like they're paying more attention to Sonic > Mario."
+		},
+		{
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "sadness",
+			"text": "And If I was Mario... I will be sad..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "he-mad-ohno-3",
+			"text": "Is Mario's Madness not enough for the FNF Community & Custom Mario Mod?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "submission",
+			"text": "BF. Mario's Madness is a Creepypasta Mod. & That's How Creepypasta helped the Mario & Sonic FNF Community Rise."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "boredom",
+			"text": "& also... Sonic.EXE Mod came first before Mario's Madness. & That's why Sonic FNF is growing more than Mario FNF."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "trust",
+			"text": "So... that's why... I am trying my best, to make Mario FNF Community rise. So they can pay attention to Him."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad1",
+			"text": "Oh... so... you don't like Sonic..? Don't Lie..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "Did I say ANYTHING about ME HATING SONIC? nooooooooo."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "Ok. This is taking too Long. Let's just meet Sonic and be done with it."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "That's a Spirit!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Meanwhile."
+		},
+		{
+			"sound": "sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "Took you long enough."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey Son-"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "SONIIIIIIIIC!!!!! OH MY GOD!!!"
+		},
+		{
+			"sound": "sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "blush",
+			"text": "Seems... like I have a Biggest Fan... Hi! What is your name?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "BF!!!"
+		},
+		{
+			"sound": "sonic",
+			"speed": 0.07,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BF? That's a weird name..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "oops1",
+			"text": "Ok. Here. Let me give you my actual Name-"
+		},
+		{
+			"sound": "sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "No No No! It's Ok!"
+		},
+		{
+			"sound": "sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "default",
+			"text": "& for you... Wearing the Purple hat... what's yours?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.065,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "awe",
+			"text": "Uhhhh..... WinMario?????"
+		},
+		{
+			"sound": "sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "WinMario? That almost sounds like \"Mario\". But ok...?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "boredom",
+			"text": "It's a combination of Windows & Mario. & That's how Windows Mario or WinMario came from."
+		},
+		{
+			"sound": "sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, Ok!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "contempt",
+			"text": "Look. Can we do some music?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "C'mon! It will be fun!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "admiration",
+			"text": "And we are doing a FNF Cover Songs because Idk how to make music & no money for paying someone to make music for me"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh. I forgot about that."
+		},
+		{
+			"sound": "sonic",
+			"speed": 0.05,
+			"portrait": "sonic",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Oh Ok!"
+		}
+	]
+}

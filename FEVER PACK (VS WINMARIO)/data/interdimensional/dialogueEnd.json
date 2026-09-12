@@ -1,0 +1,69 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Well that was impressive!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.065,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "amazement 2",
+			"text": "Yes indeed... I like how they change Colors while we sing... That was cool... You got to take me that Place in 1 day... woah..."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yaaaasssssss, babe!~"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Glad you like it, and even you WM/LXP!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "amazement 2",
+			"text": "yes.... goodnight guys... (sleeping)"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh... well... He is Sleeping now..."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, guys I will take him to his house. Anyways, Nice Adventure Babe, Let's hope we'll see it again."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yep."
+		}
+	]
+}

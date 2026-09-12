@@ -1,0 +1,14 @@
+setProperty('watermark.visible', false)
+setProperty('healthText.visible', false)
+setProperty('offsetText.visible', false)
+setProperty('scoreTxt.visible', false)
+setProperty('timeTxt.visible', false)
+setProperty('timeBarBG.visible', false);
+setProperty('timeBar.visible', false);
+setProperty('difficult.visible', false);
+setProperty('marvelousCounter.visible', false);
+setProperty('sickCounter.visible', false);
+setProperty('goodCounter.visible', false);
+setProperty('badCounter.visible', false);
+setProperty('shitCounter.visible', false);
+setProperty('Health.visible', false);
