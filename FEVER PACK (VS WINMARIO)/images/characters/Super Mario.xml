@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Super Mario.png"><SubTexture name="Super Mario down0002" x="0" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario down0001" x="909" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario down0000" x="1818" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0000" x="2727" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0001" x="3636" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0002" x="0" y="903" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0003" x="909" y="903" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0004" x="1818" y="903" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0005" x="2727" y="903" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0006" x="3636" y="903" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0007" x="0" y="1806" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0008" x="909" y="1806" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0009" x="1818" y="1806" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario idle0010" x="2727" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario left0000" x="2727" y="1806" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario left0001" x="3636" y="1806" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario left0002" x="0" y="2709" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario right0000" x="909" y="2709" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario right0001" x="1818" y="2709" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario right0002" x="2727" y="2709" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario up0000" x="3636" y="2709" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario up0001" x="0" y="3612" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario up0002" x="909" y="3612" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario dmiss0000" x="1818" y="3612" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario dmiss0001" x="2727" y="3612" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario dmiss0002" x="3636" y="3612" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario lmiss0000" x="0" y="4515" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario lmiss0001" x="909" y="4515" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario lmiss0002" x="1818" y="4515" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario rmiss0000" x="2727" y="4515" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario rmiss0001" x="3636" y="4515" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario rmiss0002" x="0" y="5418" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario umiss0000" x="909" y="5418" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario umiss0001" x="1818" y="5418" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Super Mario umiss0002" x="2727" y="5418" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+</TextureAtlas>

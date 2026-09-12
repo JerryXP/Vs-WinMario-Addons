@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="volcanobg4.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wwfhf0000" x="0" y="0" width="2649" height="413" frameX="0" frameY="0" frameWidth="2650" frameHeight="413"/>
+	<SubTexture name="wwfhf0001" x="0" y="413" width="2650" height="411" frameX="0" frameY="-1" frameWidth="2650" frameHeight="413"/>
+	<SubTexture name="wwfhf0002" x="0" y="413" width="2650" height="411" frameX="0" frameY="-1" frameWidth="2650" frameHeight="413"/>
+	<SubTexture name="wwfhf0003" x="0" y="824" width="2650" height="411" frameX="0" frameY="-1" frameWidth="2650" frameHeight="413"/>
+</TextureAtlas>

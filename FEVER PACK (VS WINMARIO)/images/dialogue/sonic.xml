@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- OPTIMIZADO BY PTGPH -->
+
+<TextureAtlas imagePath="sonic.png">
+<SubTexture name="sonic blush.png0000" x="344" y="292" width="300" height="281" frameX="-3" frameY="-3" frameWidth="304" frameHeight="284" />
+<SubTexture name="sonic confused.png0000" x="383" y="579" width="375" height="273" frameX="0" frameY="0" frameWidth="375" frameHeight="273" />
+<SubTexture name="sonic default.png0000" x="694" y="0" width="300" height="281" frameX="-2" frameY="-1" frameWidth="304" frameHeight="281" />
+<SubTexture name="sonic fist.png0000" x="0" y="0" width="375" height="292" frameX="0" frameY="0" frameWidth="375" frameHeight="292" />
+<SubTexture name="sonic happy.png0000" x="0" y="579" width="383" height="277" frameX="0" frameY="0" frameWidth="383" frameHeight="277" />
+<SubTexture name="sonic laugh.png0000" x="375" y="0" width="318" height="291" frameX="0" frameY="0" frameWidth="318" frameHeight="291" />
+<SubTexture name="sonic run.png0000" x="0" y="292" width="344" height="286" frameX="0" frameY="0" frameWidth="344" frameHeight="286" />
+</TextureAtlas>

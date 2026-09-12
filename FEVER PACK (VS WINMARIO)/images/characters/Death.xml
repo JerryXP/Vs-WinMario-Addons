@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Death.png"><SubTexture name="Death idle0000" x="0" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0001" x="909" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0002" x="1818" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0003" x="2727" y="0" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0004" x="0" y="903" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0005" x="909" y="903" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0006" x="1818" y="903" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0007" x="2727" y="903" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0008" x="0" y="1806" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0009" x="909" y="1806" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0010" x="1818" y="1806" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0011" x="2727" y="1806" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0012" x="0" y="2709" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0013" x="909" y="2709" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0014" x="1818" y="2709" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0015" x="2727" y="2709" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0016" x="0" y="3612" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0017" x="909" y="3612" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0018" x="1818" y="3612" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+<SubTexture name="Death idle0019" x="2727" y="3612" width="909" height="903" frameX="0" frameY="0" frameWidth="909" frameHeight="903" />
+</TextureAtlas>
