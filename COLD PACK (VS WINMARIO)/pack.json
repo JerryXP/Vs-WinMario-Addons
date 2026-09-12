@@ -1,0 +1,9 @@
+{
+	"name": "Vs. WinMario: Cold Pack!",
+	"description": "Please use the mod called \"Vs. WinMario\" otherwise it will not work.\nMake sure it's 3.0 and above.\n\nThis is a Special Addon!\nThere is a 1 Song that has returned since it was removed",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [0, 192, 192],
+	"discordRPC": "1483280234911498380",
+	"iconFramerate": 10
+}
