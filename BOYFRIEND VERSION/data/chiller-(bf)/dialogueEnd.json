@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "hit",
+			"text": "THAT'S THE ONE!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "hit",
+			"text": "THE ONE THAT I SAW INSIDE OF THE GLITCHED WORLD!!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "FOR REAL?!",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "WELL IF IT IS, THEN LET'S GET THE HELL OUT OF HERE!!!",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "hit",
+			"text": "OK!!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "They go to their houses very quickly.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "And they are scared for hours.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Until moments later, they are not scared anymore.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "But BF is crying because of No Deez Nutz November.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "The End.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	],
+	"style": ""
+}

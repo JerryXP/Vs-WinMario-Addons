@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "joy",
+			"text": "Okay, One last one!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Then that Lemon Monster will come in.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "boredom",
+			"text": "Nope.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Wait... What do you mean?",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "boredom",
+			"text": "He will not be coming.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah, that's true.",
+			"boxState": "normal",
+			"sound": "lemon",
+			"speed": 0.05,
+			"portrait": "monster"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Well Okay, let's start.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "joy",
+			"text": "Ok!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

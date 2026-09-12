@@ -1,0 +1,173 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, I am back here again,"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.045,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the, Nene?!"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey Pico!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How did you get back here and his computer is on fire?!"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I used a knife to..."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well let's just say it's like F Students Trend."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.04,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OH MY-"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(kids, don't try this at home or anywhere else.)"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay look, the main question is how do you manage to get in here?"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well I was trapped inside of his world"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but since the plugins are getting deleted"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I have to find another portal to get out."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Until I saw it and then go inside"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and I saw Mr. Glitch standing and looking at his computer."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And after that, Mr. Glitch got pissed off, and he opened the portal."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So yea, I saw you & wait until you 2 guys left."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I watched the Laptop for 2 songs & after you put the USB inside of the Gun."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I took action & waited until you shot at him and I..."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, let's get the hell out of here."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay."
+		}
+	]
+}

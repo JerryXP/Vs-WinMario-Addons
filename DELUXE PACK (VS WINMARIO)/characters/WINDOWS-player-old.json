@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [312, 283],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [284, 309],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [251, 336],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [279, 311],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [223, 334],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Missleft"
+		},
+		{
+			"offsets": [267, 304],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Crydown"
+		},
+		{
+			"offsets": [250, 332],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "upset"
+		},
+		{
+			"offsets": [276, 310],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Uncool"
+		},
+		{
+			"offsets": [267, 334],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "V Pose"
+		},
+		{
+			"offsets": [267, 334],
+			"indices": [],
+			"fps": 15,
+			"anim": "scared",
+			"loop": true,
+			"name": "Scared"
+		},
+		{
+			"offsets": [267, 334],
+			"indices": [],
+			"fps": 25,
+			"anim": "hurt",
+			"loop": false,
+			"name": "Hurt"
+		},
+		{
+			"offsets": [266, 333],
+			"indices": [],
+			"fps": 45,
+			"anim": "dodge",
+			"loop": false,
+			"name": "Dodge"
+		},
+		{
+			"offsets": [266, 333],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "old/WinMario_NEW",
+	"position": [-20, 360],
+	"healthicon": "windows-old",
+	"flip_x": false,
+	"healthbar_colors": [128, 0, 128],
+	"camera_position": [170, -170],
+	"sing_duration": 8,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}

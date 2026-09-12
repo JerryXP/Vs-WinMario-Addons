@@ -1,0 +1,69 @@
+{
+	"dialogue": [
+		{
+			"expression": "interest",
+			"text": "(P): Uhh... Why are we in Neon City?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "admiration",
+			"text": "(F): Because, this is where it's the most protective city ever! That way, the glitch characters can't hurt you!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "(P): Oh Okay!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "(F): So, ready for the next round?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "(P): Sure!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "serenity",
+			"text": "(F): Now remember about every hour of-",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "(P): It changes color!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "(F): That's Right!! Now let's start!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "NO, NO, NO, NO, NO!",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.04,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "THIS IS NOT HAPPENING!!",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.04,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "It's happening",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "SHUT THE F*** UP, GREEN KID!",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.04,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Damn, ok, well last one then?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "AHHHHHHHHHHHHHHH-",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.04,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "shoot",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "That's a Warning Shot, and the Next one, I won't miss...",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "Fine, is this it, then that is it.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		}
+	],
+	"style": ""
+}

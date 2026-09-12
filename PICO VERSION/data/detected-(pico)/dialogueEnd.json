@@ -1,0 +1,125 @@
+{
+	"dialogue": [
+		{
+			"expression": "rage",
+			"text": "I HATE YOU, YOU HATE ME, WE ARE A BAD FAMILY!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "You co co crazy!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "This is what happens if you watch so many Barney Error Videos.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "rage",
+			"text": "F*** YOU, F*** YOU, F*** YOU, F*** YOU, F*** YOU-",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "ENOUGH!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "macn"
+		},
+		{
+			"expression": "rage",
+			"text": "HEY WHAT THE HELL?!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "vigilance",
+			"text": "Do you two see a message?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "No?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea No, What does it say?",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "submission",
+			"text": "\"“DON'T LET HIM WIN, MR. GLITCH DID THIS\"",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, We need to kill that Target!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "boredom",
+			"text": "Here is a Black Portal to go to his liar.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok! Come on Nene, Let's kill that B*st*rd.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Pico and Nene went to the Portal",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	],
+	"style": ""
+}

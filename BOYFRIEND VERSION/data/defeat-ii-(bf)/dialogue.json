@@ -1,0 +1,45 @@
+{
+	"dialogue": [
+		{
+			"expression": "mad",
+			"text": "Yes!! Finally, I ran away from Fake GF!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "3V3N 7H0UGH Y0U'V3 3$C@P3D FR0M H3R BU7 N07 M3 Y3T!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.045,
+			"portrait": "pico99"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "What the? Another one?!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Y3$ BF... Y3$. 0H @ND W@7CH 0U7... 7H3 BULL37$ 1$ G01NG 70 G37 Y0U...",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico99"
+		},
+		{
+			"expression": "truely pissed",
+			"text": "Oh my god...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.06,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

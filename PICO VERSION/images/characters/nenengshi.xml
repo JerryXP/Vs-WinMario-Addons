@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nenengshi.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dance instance 10000" x="2" y="2" width="812" height="688" frameX="0" frameY="0" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10001" x="816" y="2" width="814" height="688"/>
+	<SubTexture name="Dance instance 10002" x="1632" y="2" width="814" height="671" frameX="0" frameY="-17" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10003" x="2448" y="2" width="812" height="671" frameX="0" frameY="-17" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10004" x="3262" y="2" width="812" height="674" frameX="0" frameY="-14" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10005" x="2" y="692" width="812" height="674" frameX="0" frameY="-14" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10006" x="816" y="692" width="812" height="686" frameX="0" frameY="-2" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10007" x="1630" y="692" width="812" height="686" frameX="0" frameY="-2" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10008" x="2444" y="692" width="812" height="684" frameX="0" frameY="-4" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10009" x="3258" y="692" width="814" height="684" frameX="0" frameY="-4" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10010" x="2" y="1380" width="814" height="677" frameX="0" frameY="-11" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10011" x="818" y="1380" width="812" height="677" frameX="0" frameY="-11" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10012" x="1632" y="1380" width="812" height="679" frameX="0" frameY="-9" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10013" x="2446" y="1380" width="812" height="679" frameX="0" frameY="-9" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10014" x="3260" y="1380" width="812" height="682" frameX="0" frameY="-6" frameWidth="814" frameHeight="688"/>
+	<SubTexture name="Dance instance 10015" x="2" y="2064" width="812" height="682" frameX="0" frameY="-6" frameWidth="814" frameHeight="688"/>
+</TextureAtlas>

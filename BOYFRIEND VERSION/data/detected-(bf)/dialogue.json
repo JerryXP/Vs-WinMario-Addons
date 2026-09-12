@@ -1,0 +1,77 @@
+{
+	"dialogue": [
+		{
+			"expression": "annyance",
+			"text": "Well, Well, Well...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anger",
+			"text": "We have a Baby Blue B!tch in my own world!!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "enrage",
+			"text": "EXCUSE ME?!?! WHAT THE HELL DID YOU CALL ME?!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "rage",
+			"text": "YEAH YOU HEARD ME, B!TCH!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "YOU'RE A BABY BLUE B!TCH!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.03,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "(offended) TAKE THAT BACK RIGHT NOW.",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "rage",
+			"text": "NO AND I WILL NEVER!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.03,
+			"portrait": "mace"
+		},
+		{
+			"expression": "truely pissed",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "truely pissed",
+			"text": "you ask for it...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.065,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W0W, G00D J0B F0R P@$$1NG GF, BU7 C@N Y0U P@$$ M3? W17H BULL37$ T00?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.065,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "pensiveness",
+			"text": "You know I can..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "annyance",
+			"text": "...But you will never know what's coming for you!"
+		}
+	]
+}

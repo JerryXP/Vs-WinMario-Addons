@@ -1,0 +1,45 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "I won't yell at you today... But... Why did you kill my son?",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.065,
+			"portrait": "99"
+		},
+		{
+			"expression": "rage",
+			"text": "Buddy, you made that on the computer. Stop trying to act like you're the father. No you're not.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.08,
+			"portrait": "99"
+		},
+		{
+			"expression": "truely pissed",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.08,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "I had enough of you, let's go.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		}
+	],
+	"style": ""
+}

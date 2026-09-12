@@ -1,0 +1,93 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "ARE YOU FREAKING KIDDING ME?!?!?!",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.035,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "Nah, I just won! My name BF!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "SHUT UP, SHUT UP, SHUT UP!!!!!",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.035,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "JUST SHUT UP!!",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "WHAT THE FUCK?!",
+			"text": "Ay man, what is your problem?!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "YOU.",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.035,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "YOU ARE THE PROBLEM.",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.035,
+			"portrait": "99"
+		},
+		{
+			"expression": "true-mad",
+			"text": "Bro, you are on the level of Whitty!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "IUWHFISJDHFLSDVFKSDKFHLSDHBFJSDJBFSLKDhF<DNJSF",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.03,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "IOHGJEYGWEVRIWESDHGFSHYGDEFPHJSDF:KHVCDSF",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.03,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.03,
+			"portrait": "99"
+		}
+	],
+	"style": ""
+}

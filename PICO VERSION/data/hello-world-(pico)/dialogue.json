@@ -1,0 +1,93 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Wow, It looks very nice",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes it is.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "It is nice",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh hey bro.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Sorry we're gone, we saw a portal and walked straight to it.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "And not only that, we saw the dude named MacOS Wario.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "And he is looking for you, and trying to take you to the boss",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "And I think the boss wants to kill you.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "trust",
+			"text": "Oh no. Well thank you for the Warning.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "But yea, do you want to do it again?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea sure why not.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

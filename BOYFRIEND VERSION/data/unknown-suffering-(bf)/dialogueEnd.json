@@ -1,0 +1,117 @@
+{
+	"dialogue": [
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Well that's weird... He crashes!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait... Is that the Hills I see through the portal?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "That means I am free!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "YES FREEDOM!!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "And then BF left the Glitched World and now he is in the real world.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "excited",
+			"text": "Yes!!! It is so peaceful!!!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Hmm...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Speaking of the witch, I need to see what MacOS Wario is doing. But, I need to know how to do it!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh! I got a great idea!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(sings Guns from FNF and only sings the ascended part)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes!! I am flying!!!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "And then he went on the moon.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Huh... Nobody is here... but the orange Star is there, I wondered what it was used for..."
+		},
+		{
+			"expression": "shocked",
+			"text": "WOAH!!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

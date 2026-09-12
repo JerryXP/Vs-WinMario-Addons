@@ -1,0 +1,94 @@
+{
+	"camera_boyfriend": [
+		-405,
+		-55
+	],
+	"_editorMeta": {
+		"boyfriend": "WINDOWSanger-player",
+		"gf": "gf",
+		"dad": "mr-glitch-TRUE-FORM"
+	},
+	"preload": {
+		"images/glitch/HEAVEN/bg": 7
+	},
+	"boyfriend": [
+		935,
+		-10
+	],
+	"girlfriend": [
+		505,
+		105
+	],
+	"stageUI": "",
+	"defaultZoom": 0.35,
+	"objects": [
+		{
+			"x": -1444,
+			"y": -1040,
+			"scale": [
+				2.05,
+				2.05
+			],
+			"image": "radioactive/radioactive",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": 741,
+			"y": 526,
+			"scale": [
+				1,
+				1
+			],
+			"image": "glitch/HEAVEN/player-ground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		350,
+		400
+	],
+	"opponent": [
+		-575,
+		340
+	],
+	"directory": "",
+	"camera_speed": 2.8,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		400,
+		0
+	]
+}

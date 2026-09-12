@@ -1,0 +1,102 @@
+{
+	"camera_boyfriend": [
+		-500,
+		-200
+	],
+	"_editorMeta": {
+		"boyfriend": "pico-playable",
+		"dad": "mario",
+		"gf": "luigi"
+	},
+	"boyfriend": [
+		2000,
+		700
+	],
+	"girlfriend": [
+		400,
+		450
+	],
+	"stageUI": "",
+	"objects": [
+		{
+			"x": -599,
+			"y": -300,
+			"scale": [
+				1,
+				1
+			],
+			"image": "NightXP",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "stageback",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1579,
+			"y": 740,
+			"scale": [
+				1,
+				1
+			],
+			"image": "PeaceXP/mario/characters/nenegf",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "nene",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 25,
+					"name": "Nene Full instance 1",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		500,
+		0
+	],
+	"defaultZoom": 0.4,
+	"opponent": [
+		100,
+		500
+	],
+	"directory": "",
+	"camera_speed": 9,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		550,
+		0
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "joy",
+			"text": "Wow, I can see you beat me! H0W     1MPR3$$1V3!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "confused",
+			"text": "Yea... Wait a minute, did your voice bug?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "script:<What the hell? No! And you know what?>",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "{Let's try another song!} function onCreate(make MacWario mad) end",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "WHAT THE FUCK?!",
+			"text": "HUH?!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

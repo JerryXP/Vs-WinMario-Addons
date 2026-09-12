@@ -1,0 +1,311 @@
+{
+	"storyName": "",
+	"difficulties": "Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+        [
+			"Blue Balled (BF)",
+			"apple-free",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Terminal (BF)",
+			"apple-free",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Ejected (BF)",
+			"apple-angry-free",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Chiller (BF)",
+			"apple-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+        [
+			"Glitcher (BF)",
+			"apple-og-free",
+			[
+				0,
+				0,
+				128
+			]
+		],
+		[
+			"Detected (BF)",
+			"apple-angry-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+        [
+			"Danger (BF)",
+			"mr-glitch-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Defeat (BF)",
+			"mr-glitch-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Finale (BF)",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+        [
+			"Sunsets (BF)",
+			"apple-og-free",
+			[
+				64,
+				64,
+				64
+			]
+		],
+		[
+			"Galactic (BF)",
+			"apple-og-free",
+			[
+				64,
+				64,
+				64
+			]
+		],
+        [
+			"Disability (BF)",
+			"dino-free",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Win-Blammed (BF)",
+			"dino-free",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Hungry (HQ) (BF)",
+			"dino-free",
+			[
+				255,
+				0,
+				0
+			]
+		],
+        [
+			"Carefree (BF)",
+			"px-free",
+			[
+				128,
+				0,
+				255
+			]
+		],
+		[
+			"Win-High (BF)",
+			"px-free",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Boogie (BF)",
+			"px-free",
+			[
+				0,
+				0,
+				255
+			]
+		],
+        [
+			"Lo-Fight (BF)",
+			"mario-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+		[
+			"Godrays (BF)",
+			"mario-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+		[
+			"Double Kill (BF)",
+			"mario-and-luigi",
+			[
+				128,
+				0,
+				0
+			]
+		],
+        [
+			"Dejection (BF)",
+			"pibgirlfriend-free",
+			[
+				150,
+				0,
+				0
+			]
+		],
+        [
+			"Defeat II (BF)",
+			"pibpico-free",
+			[
+				0,
+				150,
+				0
+			]
+		],
+		[
+			"Unknown Suffering (BF)",
+			"windows-glitch-free",
+			[
+				150,
+				0,
+				150
+			]
+		],
+        [
+			"My Battle (BF)",
+			"apple-og-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+		[
+			"Whitroll (BF)",
+			"apple-og-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+		[
+			"Careless (BF)",
+			"apple-og-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+        [
+			"Trouble (BF)",
+			"bf-corrupted1-free",
+			[
+				0,
+				128,
+				255
+			]
+		],
+		[
+			"Onslaught (BF)",
+			"CorruptedBF-free",
+			[
+				128,
+				0,
+				64
+			]
+		],
+		[
+			"You Cant Run (BF)",
+			"CorruptedBF-free",
+			[
+				128,
+				0,
+				64
+			]
+		],
+		[
+			"Deathmatch (BF)",
+			"mr-glitch-free",
+			[
+				0,
+				0,
+				0
+			]
+		],	
+		[
+			"Tormentor (BF)",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		],	
+		[
+			"Remembrance (BF)",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

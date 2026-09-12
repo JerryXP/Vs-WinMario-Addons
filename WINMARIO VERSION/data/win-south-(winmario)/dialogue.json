@@ -1,0 +1,61 @@
+{
+	"dialogue": [
+		{
+			"expression": "aggressivenes",
+			"text": "(P): Okay, seriously, I know about the Glitch Characters targeting me...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "(P): ...But you don't have to take it seriously! ",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "vigilance",
+			"text": "(F): I have too! They are dangerous!! It can kill you!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "(P): But I can handle them!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "rage",
+			"text": "(F): NO YOU CAN'T.",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "(F): Look, let's start with this 3rd Round, Or in 1 Millisecond I am about to slap you silly.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "rage",
+			"text": "(P): OK, DAMN!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

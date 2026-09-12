@@ -1,0 +1,69 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Congratulations!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yay! Now where your brother at?"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "That's what i was about to say, Have you seen luigi?"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "No, sorry about tha-"
+		},
+		{
+			"sound": "luigi",
+			"speed": 0.05,
+			"portrait": "luigi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I am right here, Bro!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "hey luigi! it's time for you to join us! let's do this!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yeah c'mon luigi!!"
+		},
+		{
+			"sound": "luigi",
+			"speed": 0.05,
+			"portrait": "luigi",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "oh okay you guys!"
+		}
+	]
+}

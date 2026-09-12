@@ -1,0 +1,21 @@
+{
+	"dialogue": [
+		{
+			"expression": "joy",
+			"text": "Bye, C'ya later!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea you too.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

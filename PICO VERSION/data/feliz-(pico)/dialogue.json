@@ -1,0 +1,101 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Wow, the mall, just like the great times.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "What?",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "I just pretend.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Well No S*** Sherlock.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "joy",
+			"text": "Sup Everybody!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "What's up!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "optimism",
+			"text": "Merry Christmas! (or Happy Holidays)",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "AY, MERRY CHRISTMAS TO YOU!",
+			"boxState": "angry",
+			"sound": "pico",
+			"speed": 0.04,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Can we sing again and again?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Wow you like singing?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "Okay, Let's go!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

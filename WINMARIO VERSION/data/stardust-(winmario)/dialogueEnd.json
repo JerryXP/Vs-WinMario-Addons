@@ -1,0 +1,133 @@
+{
+	"dialogue": [
+		{
+			"expression": "annyance",
+			"text": "(P): Okay! We are Done!! No More!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "(F): Your mouth is about to get you in trouble!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win"
+		},
+		{
+			"expression": "rage",
+			"text": "(P): FOR WHAT?!?!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "(F): Stop having an attitude with me!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win"
+		},
+		{
+			"expression": "awe",
+			"text": "(P): O_O",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "(The Red Portal Opens)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "interest",
+			"text": "(P): Huh? What is that? I think I should-",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "(WinMario (F) pushed WinMario (P) out of the way.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "rage",
+			"text": "(P): NOW WHAT?!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "(F): You see, what am I talking about? Oh yeah! I forgot to tell you that Mr. Glitch can make Portals TOO.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "apprehension",
+			"text": "(P): Oh No...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win"
+		},
+		{
+			"expression": "vigilance",
+			"text": "(F): So let me take a risk! You stay right here!!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "remorse",
+			"text": "(P): anything you said, my future self.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "submission",
+			"text": "(F): (And besides I got a USB Killer, so... I should be fine)",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "(The Future WinMario Goes to the Portal.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "anticipation",
+			"text": "(P): Geez, I think I really need to sell this house!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

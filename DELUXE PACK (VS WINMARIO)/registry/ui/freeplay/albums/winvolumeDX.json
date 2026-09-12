@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "winvolumeDX",
+  "artists": ["Deluxe Pack"],
+  "albumArtAsset": "freeplay/albumRoll/winvolumeDX",
+  "albumTitleAsset": "freeplay/albumRoll/winvolumeDX-text"
+}

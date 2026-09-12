@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GLITCH-PICO.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="1259" y="447" width="601" height="451" frameX="-36" frameY="-13" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0001" x="0" y="450" width="635" height="451" frameX="-2" frameY="-13" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0002" x="1875" y="932" width="534" height="462" frameX="-109" frameY="-2" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0003" x="0" y="901" width="603" height="447" frameX="-40" frameY="-17" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0004" x="0" y="0" width="638" height="450" frameX="2" frameY="-15" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0005" x="1875" y="0" width="559" height="465" frameX="-77" frameY="0" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0006" x="0" y="1348" width="593" height="450" frameX="-40" frameY="-15" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0007" x="638" y="0" width="621" height="450" frameX="-12" frameY="-15" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0008" x="1875" y="465" width="555" height="467" frameX="-77" frameY="2" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0009" x="593" y="1348" width="589" height="450" frameX="-43" frameY="-15" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0010" x="638" y="450" width="618" height="451" frameX="-13" frameY="-14" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0011" x="0" y="1798" width="527" height="467" frameX="-104" frameY="2" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0012" x="603" y="901" width="588" height="447" frameX="-41" frameY="-18" frameWidth="641" frameHeight="463"/>
+	<SubTexture name="Idle0013" x="1259" y="0" width="616" height="447" frameX="-12" frameY="-18" frameWidth="641" frameHeight="463"/>
+</TextureAtlas>

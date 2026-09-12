@@ -1,0 +1,141 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "WH@7?! N0 W@Y!!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "truely pissed",
+			"text": "Yes!! Now GET ME OUT OF HERE!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "S0RRY BU7 Y0U @R3 N07 L3@V1NG!!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.04,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "WHAT THE FUCK?!",
+			"text": "What? You said I could leave! You can't break the promise! You're saying that, because you lost!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "rage",
+			"text": "NOW GET ME OUT OF HERE.",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "N0 M3@N$ N0, N0W S7@Y W17H M3 F0R3V3R!!",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "rage",
+			"text": "NOW LISTEN HERE, B!TCH, IF YOU DON'T LET ME OUT IN 10 SECONDS, I WILL F*** YOU UP.",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.08,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": "0H, $0 17'$ L1K3 7H@7 HUH? F1N3!!! H3R3 1$ @N07H3R CH@LL3NG3!!",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": "F1ND 7H3 GR33N P0R7@L 1N T3N $3C0ND$ 0R W3 W1LL D13 T0G3TH3R!",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": "$7@R71NG 1N T3N...",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": "N1N3...",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "pissed",
+			"text": "I'VE FOUND IT!!! BYE!!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(he left)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.08,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": "W3LL $H17.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.065,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": "(Glitched GF is deleted.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,277 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "UGGH. WHY DO I DATE YOU IN THE FIRST PLACE?!?!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "WHAT THE FUCK?!",
+			"text": "I didn't do nothing da hell-"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "JUST THE F*** UP B!TCH."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "THIS IS WHAT MY DADDY IS TALKING ABOUT. YOUR A MISTAKE."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.055,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "oops2",
+			"text": "first of all... that's mean. and second of all, do you mean \"You're\"?"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "OH. SO YOU LIKE TO CORRECT ME NOW HUH?! OKAY B!TCH. I WILL FIND SOMEONE TO TAKE CARE OF YOUR BADASS."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "AND BESIDES, YOU ARE NO LONGER MY BOYFRIEND. IM SORRY. I DON'T DATE SHORT MIDGETS. I DATE TALL PEOPLE."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "rage",
+			"text": "OK THEN. IS THAT WHAT YOU WANT?! NO SHORT GUYS?! JUST TALL GUYS?! "
+		},
+		{
+			"sound": "bf",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "enrage",
+			"text": "THEN YOU CAN GET THE F*** OUTTA HERE RIGHT NOW."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "OK. I DON'T NEED YOU ANYMORE. YOU CAN GO TO HELL."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She Left."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "truely pissed",
+			"text": "GOOD RIDDANCE, YOU WH/RE."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "ugh... I am done with him... I will find somebody to take of him..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "Umm... Should I call the Police? Why do I here Domestic Violence going on?!"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.065,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "umm... no... and... there is no domestic violence going on..."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "but look, I have a job for you... Can you kill my Boyfri- I mean... Ex-Boyfriend?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win",
+			"boxState": "angry",
+			"expression": "fear",
+			"text": "WOAH!! THAT'S WAS UNEXPECTED, WHY DO I NEED TO DO THAT?!"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "uhh... $5??"
+		},
+		{
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win",
+			"boxState": "angry",
+			"expression": "anger",
+			"text": "DUDE NO."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "oh! uhh... $1000!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "aggressivenes",
+			"text": "and Where do you get $1000 from???"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Selling W++d!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "disgust",
+			"text": "geez, you're like my 1 firend who is doing this.... y'all like to make me sick everyday. But Deal.... don't me make vomit..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "he-mad-ohno-3",
+			"text": "i knew why she's acting like that. it's a w++d stuff."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "truely pissed",
+			"text": "AIN'T NO WAY, SHE IS PAYING SOMEONE $1000 TO GET RID OF ME."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "submission",
+			"text": "ok, now where is this..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "awe",
+			"text": "what?! BF?! Why do I want to kill him?!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "truely pissed",
+			"text": "yeah, why did he want to kill me, b!!!tch!?"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "(no the plan is not working, guess I need to control him with my demon powers...)"
+		},
+		{
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win",
+			"boxState": "angry",
+			"expression": "terror",
+			"text": "GF, THE F/CK ARE YOU DO-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GF controls him"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "rage",
+			"text": "So? You like to mess with her huh? Then I will F/CK YOU UP REAL GOOD BEFORE YOU DIE."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "enrage",
+			"text": "OH HELL NAW. GF, I KNOW YOU'RE BEHIND THIS. YOU'RE GOING TO PAY FOR THIS."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and yes... welcome to the alternate universe, where GF hates BF so much that she hires WinMario to get rid of him."
+		}
+	]
+}

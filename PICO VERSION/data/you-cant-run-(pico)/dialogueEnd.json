@@ -1,0 +1,93 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "pico",
+			"speed": 0.045,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "What the... HEY!!!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.035,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "COME BACK HERE."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.035,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "COME BACK!!!!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Damnit!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now I would never save Nene!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait why there is a Big Black Hand?"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.04,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HEY, STAY THE F*CK BACK, YOU B*TCH!!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.04,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I GOT THE F*CKING GUN AND I AM NOT AFRAID TO USE IT."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.04,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AUGHH..."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Damn it...."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.04,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "AHHHHHHHHH-"
+		}
+	]
+}

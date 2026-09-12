@@ -1,0 +1,61 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Why is the City Red?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Like Blood!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "admiration",
+			"text": "Because, it's called Neon City",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "admiration",
+			"text": "It changes Colors Every Hour.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh Now it makes sense.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Last song please.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Okie dokie.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

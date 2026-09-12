@@ -1,0 +1,143 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set RTX Data", "0,0.22711200512523,0,0.21498636018975,0,0.071316715135602,0,0.38380373376535,0,0.80897911910077,0,0.67835705107905,0,20", ""]
+			]
+		],
+		[
+			24000,
+			[
+				["Play Animation", "dodge", "BF"]
+			]
+		],
+		[
+			24002.9761904762,
+			[
+				["Play Animation", "shoot", "Dad"]
+			]
+		],
+		[
+			24005.9523809524,
+			[
+				["Play Sound", "shoot", "1"]
+			]
+		],
+		[
+			24571.4285714286,
+			[
+				["Play Animation", "dodge", "BF"]
+			]
+		],
+		[
+			24574.4047619048,
+			[
+				["Play Animation", "shoot", "Dad"]
+			]
+		],
+		[
+			24577.3809523809,
+			[
+				["Play Sound", "shoot", "1"]
+			]
+		],
+		[
+			25142.8571428571,
+			[
+				["Play Animation", "dodge", "BF"]
+			]
+		],
+		[
+			25145.8333333333,
+			[
+				["Play Animation", "shoot", "Dad"]
+			]
+		],
+		[
+			25148.8095238095,
+			[
+				["Play Sound", "shoot", "1"]
+			]
+		],
+		[
+			26000,
+			[
+				["Play Animation", "dodge", "BF"]
+			]
+		],
+		[
+			26002.9761904762,
+			[
+				["Play Animation", "shoot", "Dad"]
+			]
+		],
+		[
+			26005.9523809524,
+			[
+				["Play Sound", "shoot", "1"]
+			]
+		],
+		[
+			26642.8571428571,
+			[
+				["Play Animation", "dodge", "BF"]
+			]
+		],
+		[
+			26645.8333333333,
+			[
+				["Play Animation", "shoot", "Dad"]
+			]
+		],
+		[
+			26648.8095238095,
+			[
+				["Play Sound", "shoot", "1"]
+			]
+		],
+		[
+			27428.5714285714,
+			[
+				["Play Animation", "dodge", "BF"]
+			]
+		],
+		[
+			27431.5476190476,
+			[
+				["Play Animation", "shoot", "Dad"]
+			]
+		],
+		[
+			27434.5238095238,
+			[
+				["Play Sound", "shoot", "1"]
+			]
+		],
+		[
+			83428.5714285715,
+			[
+				["Blammed Lights", "2", ""]
+			]
+		],
+		[
+			102500,
+			[
+				["Blammed Lights", "0", ""]
+			]
+		],
+		[
+			142285.714285714,
+			[
+				["Play Animation", "2", "BF"]
+			]
+		],
+		[
+			142288.690476191,
+			[
+				["Change Character", "Dad", "unknown"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

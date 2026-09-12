@@ -1,0 +1,69 @@
+{
+	"dialogue": [
+		{
+			"expression": "anger",
+			"text": "Why you little sh*t....",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Welp, I won!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "he-mad-ohno-1",
+			"text": "Now let him go!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "rage",
+			"text": "NO!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anger",
+			"text": "YES!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "macn"
+		},
+		{
+			"expression": "rage",
+			"text": "AHH!! WHAT THE HELL?!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "BF, I made a black portal & Mr. Glitch did it!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.045,
+			"portrait": "macn"
+		},
+		{
+			"expression": "truely pissed",
+			"text": "Oh, he caused this? Fine! I will finally meet him and have some words for him!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

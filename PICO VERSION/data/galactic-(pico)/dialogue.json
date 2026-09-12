@@ -1,0 +1,69 @@
+{
+	"dialogue": [
+		{
+			"expression": "optimism",
+			"text": "Wow! Impressive, but I have to leave for a parallel universe.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, is it because-",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "joy",
+			"text": "Yes, I am a Negative Version of WM/LXP.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "ecstasy",
+			"text": "& Parallel Universe is my Main Universe.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Ofc.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "interest",
+			"text": "What do you mean \"“Ofc\"” You already know?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Look, let's start the last song, ok?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Oh my god, Fine.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		}
+	],
+	"style": ""
+}

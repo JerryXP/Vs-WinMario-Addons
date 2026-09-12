@@ -1,0 +1,117 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Ugh... where am I?!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "optimism",
+			"text": "Hey BF...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "vigilance",
+			"text": "I have finally caught you...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "he-mad-ohno-2",
+			"text": "Oh... Uh...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "he-mad-ohno-1",
+			"text": "Beep bo bop skoodo bep!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "Nice try, Idiot.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "I know you speak English...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "terror",
+			"text": "OK FINE!! But please, I was on a date with GF!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "terror",
+			"text": "Please take me out of here!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "serenity",
+			"text": "Not until you rap battle with me!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "optimism",
+			"text": "So, Boyfriend... Here is the deal.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "joy",
+			"text": "If you win, we will go to the next level.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "vigilance",
+			"text": "But if you lost, then you are done.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "hit",
+			"text": "Okay! Deal! But please don’t kill me!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,45 @@
+{
+	"dialogue": [
+		{
+			"expression": "terror",
+			"text": "HUH?! HEY, HEY, HEY, CUT THAT S*** OUT MAN!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hello, BF.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "hit",
+			"text": "AND IT TALKS?!?!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes BF... Since you knew something was off... Let's have another round, shall we?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "terror",
+			"text": "Okay... (gf, help me...)",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.06,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

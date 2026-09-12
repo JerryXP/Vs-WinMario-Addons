@@ -1,0 +1,125 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Alright now I will leave now, good to meet you guys.",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "It's good to see you too",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes! See you later girl!",
+			"boxState": "normal",
+			"portrait": "nene",
+			"speed": 0.05,
+			"sound": "nene"
+		},
+		{
+			"expression": "confused",
+			"text": "bruh what.",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.07,
+			"sound": "px"
+		},
+		{
+			"expression": "talk",
+			"text": ":/",
+			"boxState": "normal",
+			"portrait": "nene",
+			"speed": 0.05,
+			"sound": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, bye bye!",
+			"boxState": "normal",
+			"portrait": "px",
+			"speed": 0.05,
+			"sound": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "*Paxton left*",
+			"boxState": "normal",
+			"portrait": "unknown",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Alright now that's a second time we almost got the cops called.",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.05,
+			"sound": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "I know Pico, but I saw a Green Pipe come out.",
+			"boxState": "normal",
+			"portrait": "nene",
+			"speed": 0.05,
+			"sound": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh? A Green Pipe? What does this take us too?",
+			"boxState": "normal",
+			"portrait": "pico",
+			"speed": 0.065,
+			"sound": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't know, but let's go!",
+			"boxState": "normal",
+			"portrait": "nene",
+			"speed": 0.05,
+			"sound": "nene"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait... Are sure this is safe?"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh come on Pico, stop being a baby and let's go."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Both of them went inside of the pipe.)"
+		}
+	],
+	"style": ""
+}

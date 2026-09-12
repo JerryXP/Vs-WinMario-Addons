@@ -1,0 +1,437 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "ecstasy",
+			"text": "Welp... we finally made it... The End..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad1",
+			"text": "yeah..."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah! I can't believe it's finally happening!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn",
+			"boxState": "normal",
+			"expression": "serenity",
+			"text": "yeah, I can't wait for the Grand Finale!!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.045,
+			"portrait": "mace",
+			"boxState": "normal",
+			"expression": "anger",
+			"text": "Ugh... geez. can't believe We all got beaten by This Purple Boy."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "I know right?! Geez... Next time, I will get my revenge.... Just he waits..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W3LP, W3 G07 7H3 S@M3 F3LL1NG, BU7 L00K, W3 @R3 D3@D, @ND H3 C@NN07 H3R3 U$."
+		},
+		{
+			"sound": "win",
+			"speed": 0.015,
+			"portrait": "win99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NULL OBJECT REFERENCE."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I will give you 5 Bitcoin if you stop talking... Now."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "D3@L."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W3LP. 1 (0ULD'V3 G37 7H3 J0B @$ @ M@F1@. BU7 0F (0UR$3 17 F@1L3D."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "That could've be a life goal... but ok."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W3LL, 1 C0ULD'V3 H@V3 BOYFR13ND, S0 1 W0N'7 B3 S1NGL3."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Boyfirend??? Isn't the dude that I thought he can't speak english..."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "and 1 more thing... Who the hell, names him Boyfriend?! I felt, weirded out..."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "@ND H3R N@M3 1$ G1RLFR13ND."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Geez... who ever the Devs are... I would NEVER allowed them to name my children."
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dad, the devs are called \"Funkin' Crew\" and that's very true..."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "And that's why you're my son!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace",
+			"boxState": "normal",
+			"expression": "loathing",
+			"text": "Wow... I was a OG son since 2025... but that's you."
+		},
+		{
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Oh... and don't worry son... I will find a way to bring myself back to alive... So I can earn my vengence..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok... enough of 99 and his minions talking. We will now get to the Humans."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow... so I made a small apperance 2 times and you give me a addon about it, but you got bored of it..."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...and that's a treatment you give me, Bro?!"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pico, Shut the hell up. I made NO APPERANCE and for the addon, at least he gives me a Spotlight, & I ain't complain."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But Nene-"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.04,
+			"portrait": "nene",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT THE FUCK UP."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "anticipation",
+			"text": "Woah! Woah! What's happening over here?"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.035,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "OH, I WILL TELL YOU, YOU GIVE ME NO ATTEN-"
+		},
+		{
+			"sound": "nene",
+			"speed": 0.035,
+			"portrait": "nene",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "PICO. IF YOU DON'T SHUT UP-"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "boredom",
+			"text": "oh yeah. sorry about that. I have no plans for you two."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.035,
+			"portrait": "nene",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NOW YOU GET IT, PICO?!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.08,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "he-mad-ohno-2",
+			"text": "What in the world is happening???"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "awe",
+			"text": "nothing..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok."
+		},
+		{
+			"sound": "luigi",
+			"speed": 0.05,
+			"portrait": "luigi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So Mario, what are we doing here again? I don't rememeber..."
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well Luigi, we are here because We can't miss the Grand Finale!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Hmm... are we missing somebody?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "anticipation",
+			"text": "...No?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "hmm... hes like a Paper..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "admiration",
+			"text": "Oh yeah, him, well... He didn't made it. (because he was removed & replaced with Mario & Luigi)"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh Ok! (oh ok I think you want Week 12 to be fun)"
+		},
+		{
+			"sound": "skump",
+			"speed": 0.05,
+			"portrait": "snpportrait",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "It is a Spooky Month!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "oops1",
+			"text": "uh... ok..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "admiration",
+			"text": "Just leave them alone, BF."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.065,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh Ok..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Wait, can we do the Last Song Please!! It will be great for Finale!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "optimism",
+			"text": "Yeah!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "submission",
+			"text": "But here is the thing... You can't get any Okays (Bads), Awfuls (Sh/ts), nor get Nopes (Misses), Deal?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "boredom",
+			"text": "(oh and yes, we are doing Finale again, I have no idea for the Final Song for  Impossible Pack going to be.)"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "he-mad-ohno-3",
+			"text": "But that song is Hard, and these Challenges makes it even more harder."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "But Deal!"
+		},
+		{
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Let's start with this finale!!"
+		}
+	]
+}

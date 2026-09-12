@@ -1,0 +1,29 @@
+{
+	"dialogue": [
+		{
+			"expression": "loathing",
+			"text": "(P): This is ridiculous.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anger",
+			"text": "(F): >:/",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "awe",
+			"text": "(P): Fine.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

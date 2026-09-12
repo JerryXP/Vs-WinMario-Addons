@@ -1,0 +1,101 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Uhh... babe why are we going to random people's houses?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Because I have no opponents to fight off! That's why we are exploring the houses!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh uhh... okay!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "*knocks*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "confused",
+			"text": "Hello?",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "confused",
+			"text": "Hey! Can we come in?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure!",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "talk",
+			"text": "(And then they come in)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "confused",
+			"text": "So what are you guys doing here?",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "confused",
+			"text": "Well, can we sing? Because I have no opponents to fight. It doesn't matter if it's a cover song.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Oh, yeah!",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		}
+	],
+	"style": ""
+}

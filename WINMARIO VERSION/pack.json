@@ -1,0 +1,8 @@
+{
+	"name": "Vs. WinMario: WinMario? Version",
+	"description": "Please use the mod called \"Vs. WinMario\" otherwise it will not work.\nMake sure it's 3.0 and above.\n\n*Please Note that Purple BF & GF is a placeholder for WinMario in Freeplay Menu. Since I can't get my own assets on here. ;(",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [192, 0, 192],
+	"discordRPC": "1472354394782830594"
+}

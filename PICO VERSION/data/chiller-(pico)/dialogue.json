@@ -1,0 +1,61 @@
+{
+	"dialogue": [
+		{
+			"expression": "remorse",
+			"text": "Hey",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.07,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Sup Bro, how you do-",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "remorse",
+			"text": "Help Me.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.08,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Help you with what? If it's Math, I am not good at it.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "grief",
+			"text": "No. I'm in danger.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.085,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "?!",
+			"boxState": "angry",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "?!",
+			"boxState": "angry",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

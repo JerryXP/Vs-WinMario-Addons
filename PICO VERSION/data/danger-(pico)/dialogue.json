@@ -1,0 +1,77 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Alright show yourself!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "I am right here-",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Shut it!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "shocked",
+			"text": "Oh... Uh... Okay?",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "confused",
+			"text": "You want something?",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Return MacOS Wario to us Right Now!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Nope, you better have something for me in order to get it.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Uh, sing then!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "excited",
+			"text": "Oh, fine, if you Win, you may have it back.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		}
+	],
+	"style": ""
+}

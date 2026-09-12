@@ -1,0 +1,1 @@
+Place your fonts either .ttf or .otf! (can .fon work too? I am not sure...)

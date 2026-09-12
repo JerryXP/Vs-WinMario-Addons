@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "anger",
+			"text": "WHY, WHY, WHY?!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anger",
+			"text": "WHY D1D Y0U W1N?",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "First of all, clean your vocals.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "rage",
+			"text": "MY V0C@L$ 1$ CL3@N!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "No it's not.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "And Second of All, because I am always number one!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "anger",
+			"text": "@N07HER 0N3 R1GH7 N0W",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.07,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anger",
+			"text": "function onCreate () make MacWario 'mad' end",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "What the Fu-",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

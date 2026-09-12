@@ -1,0 +1,93 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "aggressivenes",
+			"text": "(F): Finally, I kill all 3 of them!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "(F): Welp time to go to the portal! Yay!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(He left the dimension for a final time.)"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace",
+			"boxState": "angry",
+			"expression": "rage",
+			"text": "NO NO NO NO NO!!!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace",
+			"boxState": "angry",
+			"expression": "rage",
+			"text": "ARE YOU SERIOUS?!?!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace",
+			"boxState": "angry",
+			"expression": "rage",
+			"text": "HOW AM I GOING TO TELL MY BOSS ABOUT THIS?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Meanwhile..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "(F): Yes I am back!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "optimism",
+			"text": "(P): You're back? Nice! So I packed all my stuff, and sold this stage for $4,000!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(F): Nice, and now come with me so I can tell you what you are spending $4,000 on."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "serenity",
+			"text": "(P): Okie dokie!!"
+		}
+	]
+}

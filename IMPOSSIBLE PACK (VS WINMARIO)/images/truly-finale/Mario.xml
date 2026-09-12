@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mario.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="0" y="570" width="453" height="561" frameX="2" frameY="2" frameWidth="449" frameHeight="557"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="450" height="570" frameX="-1" frameY="2" frameWidth="449" frameHeight="566"/>
+	<SubTexture name="Idle0002" x="0" y="0" width="450" height="570" frameX="-1" frameY="2" frameWidth="449" frameHeight="566"/>
+	<SubTexture name="Idle0003" x="901" y="0" width="451" height="564" frameX="0" frameY="-4" frameWidth="449" frameHeight="566"/>
+	<SubTexture name="Idle0004" x="450" y="0" width="451" height="564" frameX="0" frameY="-4" frameWidth="449" frameHeight="566"/>
+	<SubTexture name="Idle0005" x="453" y="570" width="452" height="561" frameX="2" frameY="-7" frameWidth="449" frameHeight="566"/>
+	<SubTexture name="Idle0006" x="453" y="570" width="452" height="561" frameX="2" frameY="-7" frameWidth="449" frameHeight="566"/>
+</TextureAtlas>

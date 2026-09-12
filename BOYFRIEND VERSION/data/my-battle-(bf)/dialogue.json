@@ -1,0 +1,93 @@
+{
+	"dialogue": [
+		{
+			"expression": "boredom",
+			"text": "Okay, I need to wait for 1 Month until my castle gets fixed",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "*the big bang at the door.*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "fear",
+			"text": "What the?! Mr. Glitch, come back for revenge!?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "pissed",
+			"text": "No, I am not Mr. Angry Top Hat. It's me, Boyfriend!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "Oh, thank god! I thought you are going to be Mr. Glitch! So, what are you doing up here?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "I just came in to see how you are doing?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh! It's good so far!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "That's nice!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "I came up here because I want to sing with you again!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "optimism",
+			"text": "Oh! Really? Sure!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "excited",
+			"text": "Let's get funky!!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

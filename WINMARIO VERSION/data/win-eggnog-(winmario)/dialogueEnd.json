@@ -1,0 +1,45 @@
+{
+	"dialogue": [
+		{
+			"expression": "serenity",
+			"text": "(F): Done! Now let's do The E Mode! (no it's not!)",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "loathing",
+			"text": "(P): Yay...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.06,
+			"portrait": "win"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "(F): Excuse Me? Where is your Christmas Spirit?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "ecstasy",
+			"text": "(P): I mean, YAY!!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "(F): Much Better! Let's go!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,45 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welp he is gone."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes he is."
+		},
+		{
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh and I see another portal!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, let's go."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Both of them go straight to the Portal."
+		}
+	]
+}

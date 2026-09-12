@@ -1,0 +1,181 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Ugh... Where am I?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "On the WinXP Hill.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "optimism",
+			"text": "Yep. You save me!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "excited",
+			"text": "Great!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "I almost died to Mister \"I like to throw temper tantrums\"",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "boredom",
+			"text": "Yeah, he does have a temper.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "confused",
+			"text": "BF? ",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "(gasps) BF!",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Babe!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Oh my goodness...",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "I was looking for you...",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "And I thought you are-",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Gone? Nah, I was just walking.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh ok.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "And for you, who are you?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "I am MacOS Wario/Waluigi X",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "excited",
+			"text": "Well, I am Girlfriend, Nice to meet you.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "optimism",
+			"text": "Nice to meet you too!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "confused",
+			"text": "Hey, uhh... I was wondering...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Can we sing again?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "optimism",
+			"text": "Sure!!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "excited",
+			"text": "Yay!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

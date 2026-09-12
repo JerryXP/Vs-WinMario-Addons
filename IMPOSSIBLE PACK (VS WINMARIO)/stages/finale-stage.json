@@ -1,0 +1,612 @@
+{
+	"camera_boyfriend": [
+		-90,
+		-60
+	],
+	"_editorMeta": {
+		"boyfriend": "bf-end",
+		"dad": "WINDOWS-end",
+		"gf": "gf-end"
+	},
+	"girlfriend": [
+		688,
+		228
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		980,
+		190
+	],
+	"objects": [
+		{
+			"x": -1352,
+			"y": -666,
+			"scale": [
+				2,
+				2
+			],
+			"image": "truly-finale/bg",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bg",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.6,
+				0.6
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 178,
+			"y": 246,
+			"scale": [
+				1,
+				1
+			],
+			"image": "truly-finale/Nene",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "nene",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "Nene Full instance ",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 2198,
+			"y": 420,
+			"scale": [
+				0.6,
+				0.6
+			],
+			"image": "truly-finale/GLITCH-WINMARIO",
+			"flipX": true,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "glitch-winmario",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "Idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1418,
+			"y": 90,
+			"scale": [
+				1,
+				1
+			],
+			"image": "truly-finale/GLITCH-BF-CORRUPT",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 50,
+			"name": "glitch-bf-corrupt",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "BF idle dance",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1793,
+			"y": 392,
+			"scale": [
+				1,
+				1
+			],
+			"image": "truly-finale/GLITCH-PICO",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "glitch-pico",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "Idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1624,
+			"y": 263,
+			"scale": [
+				1,
+				1
+			],
+			"image": "truly-finale/GLITCH-GF",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "glitch-gf",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "GF_IDLE",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1731,
+			"y": 532,
+			"scale": [
+				1,
+				1
+			],
+			"image": "truly-finale/GLITCH-BF",
+			"flipX": true,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "glitch-bf",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "IDLE",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1243,
+			"y": 6,
+			"scale": [
+				0.35,
+				0.35
+			],
+			"image": "truly-finale/Mr. Glitch",
+			"flipX": true,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "99",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1160,
+			"y": 312,
+			"scale": [
+				1,
+				1
+			],
+			"image": "truly-finale/Spookeez",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Spookeez",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "spooky dance idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -631,
+			"y": -80,
+			"scale": [
+				0.45,
+				0.45
+			],
+			"image": "truly-finale/um.anoptx",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Paxton",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "Idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -877,
+			"y": 96,
+			"scale": [
+				0.35,
+				0.35
+			],
+			"image": "truly-finale/DinoEvan.21",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Dino",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "Idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -1098,
+			"y": 450,
+			"scale": [
+				0.6,
+				0.6
+			],
+			"image": "truly-finale/MacOS Wario (Evil)",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "MacOSWario_Evil",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "Idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": 1326,
+			"y": 411,
+			"scale": [
+				0.6,
+				0.6
+			],
+			"image": "truly-finale/MacOS Wario",
+			"flipX": true,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "MacOSWario",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "Idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -231,
+			"y": 445,
+			"scale": [
+				1,
+				1
+			],
+			"image": "truly-finale/Pico",
+			"flipX": true,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pico-1",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "lock in instance 1",
+					"indices": [
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86
+					]
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -380,
+			"y": 416,
+			"scale": [
+				0.9,
+				0.9
+			],
+			"image": "truly-finale/Luigi",
+			"flipX": true,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "luigi",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "Idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"x": -644,
+			"y": 480,
+			"scale": [
+				0.9,
+				0.9
+			],
+			"image": "truly-finale/Mario",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "mario",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "idle",
+					"fps": 24,
+					"name": "Idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		-60
+	],
+	"defaultZoom": 0.35,
+	"opponent": [
+		100,
+		200
+	],
+	"directory": "",
+	"camera_speed": 8,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		40,
+		-60
+	]
+}

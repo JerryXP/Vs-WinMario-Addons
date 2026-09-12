@@ -1,0 +1,117 @@
+{
+	"dialogue": [
+		{
+			"expression": "WHAT THE FUCK?!",
+			"text": "Huh? Where did he go?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Eh, who cares.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "terror",
+			"text": "Wait, why is the Glitch getting Worsen?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "hit",
+			"text": "Can somebody help?!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "hit",
+			"text": "Please! If I don't get help then I will be dead!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Meanwhile Outside",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "confused",
+			"text": "Huh? Is that a white portal?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Let me check it out.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh geez it’s corrupted...",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait BF!",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "hit",
+			"text": "GF I AM GLAD YOU CAME IN PLEASE-",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "I KNOW, COME ON! HOLD MY HAND",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "shocked",
+			"text": "OK, LET'S GET OUT OF HERE!",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "BF & GF have finally escaped.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	],
+	"style": ""
+}

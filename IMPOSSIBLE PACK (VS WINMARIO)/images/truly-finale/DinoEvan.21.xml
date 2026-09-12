@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DinoEvan.21.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="0" y="0" width="1062" height="2441" frameX="-148" frameY="-35" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="1062" height="2441" frameX="-148" frameY="-35" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0002" x="1062" y="0" width="1067" height="2420" frameX="-164" frameY="-56" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0003" x="1062" y="0" width="1067" height="2420" frameX="-164" frameY="-56" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0004" x="2129" y="0" width="1066" height="2421" frameX="-192" frameY="-53" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0005" x="2129" y="0" width="1066" height="2421" frameX="-192" frameY="-53" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0006" x="3195" y="0" width="1066" height="2400" frameX="-192" frameY="-74" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0007" x="3195" y="0" width="1066" height="2400" frameX="-192" frameY="-74" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0008" x="4261" y="0" width="1062" height="2366" frameX="-189" frameY="-108" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0009" x="4261" y="0" width="1062" height="2366" frameX="-189" frameY="-108" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0010" x="3195" y="0" width="1066" height="2400" frameX="-192" frameY="-74" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0011" x="3195" y="0" width="1066" height="2400" frameX="-192" frameY="-74" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0012" x="2129" y="0" width="1066" height="2421" frameX="-192" frameY="-53" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0013" x="2129" y="0" width="1066" height="2421" frameX="-192" frameY="-53" frameWidth="1406" frameHeight="2500"/>
+</TextureAtlas>

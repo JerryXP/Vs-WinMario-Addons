@@ -1,0 +1,29 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W3LL Y0U K1LL3D @LL 7W0 0F 7H3M! BU7 N0W 17'$ 71M3 70 D13!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf99",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BU7 @F73R W3 F1GH7 BU7 1F Y0U W1N, 1 W1LL @CC3P7 Y0UR PUN1$HM3N7!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "aggressivenes",
+			"text": "that's a perfect deal!"
+		}
+	]
+}

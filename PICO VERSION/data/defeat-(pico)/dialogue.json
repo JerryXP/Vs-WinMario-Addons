@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "Really?",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.06,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes Really!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "shocked",
+			"text": "Try Again...",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.07,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "You're just saying that because you are a sore loser!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "I said... Try Again.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.08,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, Fine.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

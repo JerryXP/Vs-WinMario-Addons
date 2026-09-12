@@ -1,0 +1,8 @@
+{
+	"name": "Vs. WinMario: Pico Version",
+	"description": "Please use the mod called \"Vs. WinMario\" otherwise it will not work.\nMake sure it's 3.0 and above.\n\n(NOTE: YES I AM AWARE ABOUT THE BUGS OR ISSUES FOR NENE & ABOT SPEAKER BUT THERE IS NOTHING I CAN DO ABOUT IT.)",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [64, 96, 64],
+	"discordRPC": "1472354394782830594"
+}

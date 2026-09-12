@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "W3LL CR@P.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf99"
+		},
+		{
+			"expression": "talk",
+			"text": "W3LP. 7H3 D3@L 1$ @ D3@L.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf99"
+		},
+		{
+			"expression": "talk",
+			"text": "*Glitch BF has now been removed*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "*or is it?*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow, he knows the deal.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Instead of breaking the deal.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Welp at least we-",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "*The Purple Portal shows up*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Speaking of the devil there is the portal!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh. Okay.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,93 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Wow, you won... yet again!! How imp-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "[WARNING MEMORY OVERLOAD]",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "Grrr... No not now!! Aughh.. Fine.",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "Moments Later",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "7H3R3 Y0U G0!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "No thank you.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "0H $HU7 UP 1D107, F1N@L R0UND. 0R 1 W1LL 1NF3C7 Y0U.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "terror",
+			"text": "OK, OK, OK!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "7H@7'$ WH@7 1 7H0UGH7.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "[WARING!! SYSTEM DELETING IN 2 MIN & 30 SEC]",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bfcorrupted"
+		},
+		{
+			"expression": "talk",
+			"text": "(...D@MN.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bfcorrupted"
+		}
+	],
+	"style": ""
+}

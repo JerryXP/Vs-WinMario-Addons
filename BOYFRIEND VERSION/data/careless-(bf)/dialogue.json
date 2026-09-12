@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "optimism",
+			"text": "Alright! Last-",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Wait...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Oh No... (huffing & puffing)",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait what happened?!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "apprehension",
+			"text": "I am having Anxiety Attack!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.045,
+			"portrait": "macn"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, is it because of the past?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "fear",
+			"text": "YES!!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Oh... well...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "ecstasy",
+			"text": "Hey! How about let's sing to make it go away? Okay pal?",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.045,
+			"portrait": "macn"
+		},
+		{
+			"expression": "confused",
+			"text": "I don't think it's a good idea, but okay.",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

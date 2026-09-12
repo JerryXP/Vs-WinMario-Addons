@@ -1,0 +1,77 @@
+{
+	"dialogue": [
+		{
+			"expression": "boredom",
+			"text": "Welp, you know the deal.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "1 KN0W.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": "(WinMario (F) killed Fake GF by using USB Killer.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Yep! What's next?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "(Green Portal shows up)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "aggressivenes",
+			"text": "Green Portal? I bet it's fake Pico!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "(The Future WinMario Goes to the Portal.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "anticipation",
+			"text": "What?! How did he do that?!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "optimism",
+			"text": "No matter, Glitch Pico could assassinate him!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		}
+	],
+	"style": ""
+}

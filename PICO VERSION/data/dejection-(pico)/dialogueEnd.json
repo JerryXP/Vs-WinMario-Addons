@@ -1,0 +1,77 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "W0W Y0U B3@T M3 BU7 Y0U W1LL N07 L3@V-",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "fnf_loss_sfx-pico",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "49 20 48 61 74 65 20 74 68 69 73 20 77 6F 72 6C 64 2E",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": "*Glitch GF is dead & Blue Portal shows up*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Huh? Blue Portal Shows Up? I am not sure we ca-",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "No No, Pico, we have an Unfinished Business.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Said by YOU.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Goddamnit, You're right. Let's go.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "(They walked in inside the Blue Portal)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		}
+	],
+	"style": ""
+}

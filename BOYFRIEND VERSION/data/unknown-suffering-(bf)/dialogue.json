@@ -1,0 +1,61 @@
+{
+	"dialogue": [
+		{
+			"expression": "oops1",
+			"text": "Okay, this is another Glitched out World.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "Huh? And who are you supposed to be?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(LOADING)",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win99"
+		},
+		{
+			"expression": "WHAT THE FUCK?!",
+			"text": "Hello? Talk!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Null Object Reference",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win99"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.08,
+			"portrait": "bf"
+		},
+		{
+			"expression": "terror",
+			"text": "HUH?!?",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

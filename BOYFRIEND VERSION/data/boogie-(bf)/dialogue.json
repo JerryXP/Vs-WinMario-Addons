@@ -1,0 +1,29 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Let's do the last one, because I have to spend time with my family.",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "excited",
+			"text": "Ok!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Fine by me!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	],
+	"style": ""
+}

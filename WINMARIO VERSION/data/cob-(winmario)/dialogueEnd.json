@@ -1,0 +1,61 @@
+{
+	"dialogue": [
+		{
+			"expression": "joy",
+			"text": "(P): Wow, that sounds cool! & Perfect Sync Too!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "(F): Well Duh, we have the same Voice!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "(P): Ok! Thank you for coming!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "(F): Okay! Come with Me.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "(P): Wait, come with you? Why?!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "annyance",
+			"text": "(F): Get your ass over here. >:/",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "awe",
+			"text": "(P): Okay!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

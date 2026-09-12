@@ -1,0 +1,69 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.045,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "fear",
+			"text": "(P): You spent $4,000 on the animated space?!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "(F): Yep, you have a Blue Living Room, Green Kitchen, Red Basement, & Purple Bedroom."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "optimism",
+			"text": "(P): Nice!!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "(F): Yep, and now what round is this?"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "anticipation",
+			"text": "(P): We have 1, 2, 3, 4, 5..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "optimism",
+			"text": "(F): Oh! This is the Sixth & Final Round!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "joy",
+			"text": "(P): Oh Okay, Let's start!"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "serenity",
+			"text": "(F): Okie dokie!!"
+		}
+	]
+}

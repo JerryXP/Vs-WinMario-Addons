@@ -1,0 +1,93 @@
+{
+	"dialogue": [
+		{
+			"expression": "terror",
+			"text": "1 W1LL S3T Y0U GUYS 0N F1R3...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.045,
+			"portrait": "mace"
+		},
+		{
+			"expression": "terror",
+			"text": "UN71L Y0U GUYS BURN D0WN 1N70 @ CR1$P7.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.045,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "Go ahead while we put our weapons on fire.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "So it can be lethal!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "rage",
+			"text": "01000110 01010101 01000011 01001011 00100000 01011001 01001111 01010101 00100001",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.03,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "(Translation) F*** Y0U!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.045,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow I didn't know Binary is a new translation.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea, thank you for teaching us!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "rage",
+			"text": "F1N@L R0UND, R1GH7 N0W...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "mace"
+		},
+		{
+			"expression": "rage",
+			"text": "1 @M N0W P1$$3D 0FF.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "Idk what you're saying but ok.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

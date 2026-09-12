@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GLITCH-BF-CORRUPT.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BF idle dance0000" x="1501" y="0" width="494" height="427" frameX="-11" frameY="-2" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0001" x="1501" y="851" width="491" height="425" frameX="-14" frameY="-4" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0002" x="1501" y="427" width="494" height="424" frameX="-10" frameY="-6" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0003" x="501" y="0" width="506" height="427" frameX="2" frameY="-3" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0004" x="0" y="1297" width="498" height="415" frameX="-6" frameY="-17" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0005" x="498" y="1297" width="501" height="404" frameX="-3" frameY="-28" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0006" x="981" y="865" width="504" height="419" frameX="2" frameY="-13" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0007" x="497" y="433" width="496" height="429" frameX="-5" frameY="-2" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0008" x="0" y="0" width="501" height="433" frameX="-1" frameY="1" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0009" x="1007" y="0" width="494" height="434" frameX="-6" frameY="2" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0010" x="0" y="433" width="497" height="432" frameX="-3" frameY="0" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0011" x="491" y="865" width="490" height="432" frameX="-8" frameY="0" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0012" x="1007" y="434" width="492" height="431" frameX="-6" frameY="-1" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0013" x="0" y="865" width="491" height="432" frameX="-7" frameY="0" frameWidth="503" frameHeight="430"/>
+	<SubTexture name="BF idle dance0014" x="0" y="865" width="491" height="432" frameX="-7" frameY="0" frameWidth="503" frameHeight="430"/>
+</TextureAtlas>

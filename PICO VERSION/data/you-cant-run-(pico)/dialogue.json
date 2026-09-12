@@ -1,0 +1,125 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "pico",
+			"speed": 0.065,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bro, stop..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HAHAHAHA, NO & I WILL NEVE-"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfcorrupted",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "[MEMORY OVERLOAD]"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "bfcorrupted",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "DAMNIT!! Hold on, let me turn these   adjustments off."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "D0N3."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.065,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what the hell."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WH@7 1$ WR0NG?"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.06,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your voice sounds sh*t."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BU7, BU7-"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Can we get to the last song"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "F1N3."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bfcorrupted",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "[WARNING MEMORY OVERLOAD, DELETING IN 2 MINUTES & 30 SECONDS]"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "W3LL F***."
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"dialogue": [
+		{
+			"expression": "demon",
+			"text": "1 KN0W WH@7 @R3 Y0U H3R3 F0R...",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "demon",
+			"text": "Y0U'R3 H3R3 T0 K1LL M3.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "demon",
+			"text": "W3LL 1 W1LL N0T L37 Y0U D0 7H@7 F1R$7",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "demon",
+			"text": "B3C@U$3 1 W1LL D0 17 F1R$T.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, first.. Where is Nene?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "demon",
+			"text": "1 K1LL H3R.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Welp that makes sense.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

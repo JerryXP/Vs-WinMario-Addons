@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="um.anoptx.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="0" y="0" width="626" height="1725" frameX="-427" frameY="-563" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="626" height="1725" frameX="-427" frameY="-563" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0002" x="626" y="0" width="609" height="1724" frameX="-437" frameY="-564" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0003" x="626" y="0" width="609" height="1724" frameX="-437" frameY="-564" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0004" x="626" y="0" width="609" height="1724" frameX="-437" frameY="-564" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0005" x="1235" y="0" width="577" height="1718" frameX="-440" frameY="-570" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0006" x="1235" y="0" width="577" height="1718" frameX="-440" frameY="-570" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0007" x="1812" y="0" width="557" height="1717" frameX="-432" frameY="-571" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0008" x="1812" y="0" width="557" height="1717" frameX="-432" frameY="-571" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0009" x="2369" y="0" width="534" height="1715" frameX="-431" frameY="-573" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0010" x="2369" y="0" width="534" height="1715" frameX="-431" frameY="-573" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0011" x="2369" y="0" width="534" height="1715" frameX="-431" frameY="-573" frameWidth="1406" frameHeight="2500"/>
+	<SubTexture name="Idle0012" x="2369" y="0" width="534" height="1715" frameX="-431" frameY="-573" frameWidth="1406" frameHeight="2500"/>
+</TextureAtlas>

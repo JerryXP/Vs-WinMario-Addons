@@ -1,0 +1,149 @@
+{
+	"dialogue": [
+		{
+			"expression": "truely pissed",
+			"text": "All right I'm here now, show yourself!!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, Well, Look what we have! Isn't what MacOS Wario is talking about?",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "confused",
+			"text": "The blue haired kid?",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "he-mad-ohno-2",
+			"text": "I think he is correct.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I know I am correct because I can see a blue-haired kid right in front of me!",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Well no s***.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Hey, don't correct me boy!",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.045,
+			"portrait": "99"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Don't call me Boy.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Okay Girl.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "truely pissed",
+			"text": "Don't be a smartass...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.075,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Okay geez.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "confused",
+			"text": "Look, why are you here again?",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "he-mad-ohno-1",
+			"text": "To rescue MacOS Wario!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Yeah... No.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.055,
+			"portrait": "99"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "What about Singing?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "ugh... fine, but here is the rules:",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "If you win, you earn him back. But If you lost... You can join him. If you know what I am talking about.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "Sounds like a deal!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

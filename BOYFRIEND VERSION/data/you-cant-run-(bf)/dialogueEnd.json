@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Ok, I don't know what hell is going on, but I made it out though!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(The Black Portal Shows up.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Is it home or-",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(The hand grabs him)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "oops1",
+			"text": "...I stand corrected.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "hit",
+			"text": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.025,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

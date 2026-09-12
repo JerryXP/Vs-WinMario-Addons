@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "No.. No... it's okay Mr. Glitch... calm down...",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.065,
+			"portrait": "99"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Bro I know these people when they lose. They go, co co crazy.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "No one asks.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Damn, ok.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Let's Continue.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "true-mad",
+			"text": "Uh uh, The deal is the deal! Return MacOS Wario to m-",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "I SAID F*CKING NO.",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.035,
+			"portrait": "99"
+		},
+		{
+			"expression": "mad",
+			"text": "Woah! Keep it Family Friendly!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "I DONT CARE.",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.035,
+			"portrait": "99"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Okay, continue it is.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

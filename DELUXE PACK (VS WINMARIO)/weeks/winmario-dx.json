@@ -1,0 +1,95 @@
+{
+	"storyName": "",
+	"difficulties": "Deluxe",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "special_8",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Nerves",
+			"windows-free",
+			[
+				0,
+				128,
+				64
+			]
+		],
+		[
+			"Rano",
+			"luigi-free",
+			[
+				0,
+				128,
+				0
+			]
+		],
+		[
+			"Pinkwave",
+			"px-free",
+			[
+				176,
+				96,
+				159
+			]
+		],
+		[
+			"Its A Me",
+			"mario-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+		[
+			"Identity Crisis",
+			"mr-glitch-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Alone",
+			"apple-og-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+		[
+			"Ultraviolet",
+			"windows-end-free",
+			[
+				96,
+				0,
+				96
+			]
+		],
+		[
+			"Breaking Point",
+			"windows-free",
+			[
+				64,
+				0,
+				64
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WinMario Deluxe",
+	"hiddenUntilUnlocked": false
+}

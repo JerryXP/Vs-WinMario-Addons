@@ -1,0 +1,77 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Ok, see ya'll later!",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright you too!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "*DinoEvan.21 left*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow, we almost got the Police called!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea! We should watch out!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Otherwise, other jobs will be undone!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "*Purple Portal Shows Up*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh! Another Portal Alert! Chat, Lock in!!",
+			"boxState": "angry",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Sir, Yes Sir!",
+			"boxState": "angry",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,101 @@
+{
+	"dialogue": [
+		{
+			"expression": "annyance",
+			"text": "Well, Well, Well.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "annyance",
+			"text": "What it is your two names?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "anger",
+			"text": "OH YEA! YOU TWO NAMES ARE PICO & NENE!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "Well duh, if you play us on Newgrounds, then you know us-",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "rage",
+			"text": "SHUT THE HELL UP, SMARTASS!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "He is telling the truth.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "rage",
+			"text": "YOU KNOW WHAT? YOU SHUT THE F*** UP, YOU W****!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "(offended & gasps)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "OKAY BRO, YOU TAKE THAT BACK RIGHT NOW!",
+			"boxState": "angry",
+			"sound": "pico",
+			"speed": 0.04,
+			"portrait": "pico"
+		},
+		{
+			"expression": "anger",
+			"text": "NO",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "mace"
+		},
+		{
+			"expression": "talk",
+			"text": "Pico, Let's team up to kill him!",
+			"boxState": "angry",
+			"sound": "nene",
+			"speed": 0.04,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok!",
+			"boxState": "angry",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

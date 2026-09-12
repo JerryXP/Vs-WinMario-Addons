@@ -1,0 +1,125 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Alright, we're here!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright let's lock in!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "confused",
+			"text": "What do you mean \"“Lock in\"?",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "shocked",
+			"text": "!!!",
+			"boxState": "angry",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "pissed",
+			"text": "HEY, HEY, HEY!!",
+			"boxState": "angry",
+			"sound": "dino",
+			"speed": 0.04,
+			"portrait": "dino"
+		},
+		{
+			"expression": "pissed",
+			"text": "WHAT ARE YOU TWO DOING WITH THE WEAPONS?!",
+			"boxState": "angry",
+			"sound": "dino",
+			"speed": 0.04,
+			"portrait": "dino"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, ok, ok, Red Guy! Chill Out!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "We just thought there will be a threat through the portal",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "A portal?",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.06,
+			"portrait": "dino"
+		},
+		{
+			"expression": "confused",
+			"text": "(Is Mr. Glitch up to no good again?!)",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh ok! So are you going to put the weapons down?",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "talk",
+			"text": "Pico & Nene: No.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "confused",
+			"text": "Ok. :/",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "talk",
+			"text": "Let's sing.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh okay, sure.",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		}
+	],
+	"style": ""
+}

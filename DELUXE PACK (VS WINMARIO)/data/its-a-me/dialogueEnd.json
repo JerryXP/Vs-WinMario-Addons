@@ -1,0 +1,29 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's a so Nice!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "but I want to leave, I don't feel confortable around this Hill being Red...~"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "trust",
+			"text": "yeah... and besides... Red hurts my eyes."
+		}
+	]
+}

@@ -1,0 +1,125 @@
+{
+	"dialogue": [
+		{
+			"expression": "optimism",
+			"text": "Hey wake up!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Woah, what happened, & where are we?",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.06,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "What the... woah.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.065,
+			"portrait": "pico"
+		},
+		{
+			"expression": "joy",
+			"text": "You guys save me!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "optimism",
+			"text": "And I want to ask you guys a question-",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Here is my question, What happened to Mr. Glitch & Your Crazy-Ass Clone?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "joy",
+			"text": "Mr. Glitch has rage quit and I hacked his Laptop to give myself Freedom!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "boredom",
+			"text": "And my \"“Crazy-Ass Clone\"” is gone & deleted, because I gave myself freedom.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Wow, you should delete the files about that \"“Evil Clone!\"",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "trust",
+			"text": "Yea, I don't know what happens if I delete all the Files,",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "acceptance",
+			"text": "It will destroy everything.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "optimism",
+			"text": "(you know, I think that's a great idea!)",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "But look, I want to ask, can we sing again?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Sure.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "joy",
+			"text": "Yeah!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		}
+	],
+	"style": ""
+}

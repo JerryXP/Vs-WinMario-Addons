@@ -1,0 +1,21 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright Pico, One more song because I have to spend time with my family!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay!"
+		}
+	]
+}

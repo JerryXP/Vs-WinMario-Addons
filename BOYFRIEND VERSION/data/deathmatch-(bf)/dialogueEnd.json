@@ -1,0 +1,21 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "99",
+			"speed": 0.035,
+			"portrait": "99",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "THAT'S IT I HAD IT WITH YOUR BULLSH!T."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "truely pissed",
+			"text": "if you don't stop yelling..."
+		}
+	]
+}

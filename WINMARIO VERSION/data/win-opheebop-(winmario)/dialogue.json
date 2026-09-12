@@ -1,0 +1,213 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Before you start, since there are 2 WinMarios",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Here is the Letter Key for those two. (F) means the Future One is talking, And (P) means the Present/Past Version is talking.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Enjoy!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "serenity",
+			"text": "(F): Yes!! My Time Machine Works!!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "(F): And now, I need to find My Past Self before the Incident happens!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "(P): Huh? What's that-",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "(P): AHHHHHHH!!! WHAT ARE YOU DOING HERE AND WHY DO YOU LOOK LIKE ME?!?!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "apprehension",
+			"text": "(F): Ok! Ok! Calm Down! I am you from the future!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "apprehension",
+			"text": "(F): See! I made a Time Machine!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "serenity",
+			"text": "(P): Oh!! Okay!! Well Can I see?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "(F): NO!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.035,
+			"portrait": "win"
+		},
+		{
+			"expression": "apprehension",
+			"text": "(F): That is not for you to touch!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "remorse",
+			"text": "(P): (Sad Face)",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "vigilance",
+			"text": "(F): I am sorry, but that device is not a toy!!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "trust",
+			"text": "(F): But anyways, I came here to warn you that The Glitch Characters are coming for you!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "trust",
+			"text": "(F): There is a leader behind it named, Mr. Glitch!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "acceptance",
+			"text": "(F): And he has a sidekick named MacWario, and he is brainwashed by him!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "apprehension",
+			"text": "(P): What?! Oh No!! Thank you for telling me about this!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "apprehension",
+			"text": "(F): Yeah, it is bad!! And this stage is haunted!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.055,
+			"portrait": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "(P): Oh No...",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "(F): But don't worry! Sell this House for $4,000 and come with me!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "submission",
+			"text": "(F): (Okay this dialogue is taking forever)",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "(F): Hey! Do you want to sing?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "(P): I Think, Yeah, I mean, Do you know how to sing?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "(F): Yea! You can sing this good too!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "serenity",
+			"text": "(P): Oh I sing? Well, let's go!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

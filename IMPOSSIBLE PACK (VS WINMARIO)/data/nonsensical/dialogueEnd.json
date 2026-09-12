@@ -1,0 +1,109 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "gf",
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "demon",
+			"text": "GOD DAMNIT."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "he-mad-ohno-3",
+			"text": "ha ha ha. you deserve it."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "truely pissed",
+			"text": "NOW STOP CONTROLLING HIM. HE IS A INNOCENT PERSON. YOU ARE TRYING TO CHANGE HIM THAT HE IS NOT."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "true-mad",
+			"text": "HE IS JUST A FNF CODER. NOT A GANG RELATED & SHIT."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "enrage",
+			"text": "AND NOW, I MUST GET A RESTRAINING ORDER FOR US, SO YOU CAN STAY 1000 FT AWAY FROM US."
+		},
+		{
+			"sound": "gf",
+			"speed": 0.08,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "you know what?! f/ck you guys. WinMario you're free, And I am going home."
+		},
+		{
+			"sound": "win",
+			"speed": 0.075,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "interest",
+			"text": "ugh... what happend?"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad1",
+			"text": "nothing..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad3",
+			"text": "but look... you're free from that witch... "
+		},
+		{
+			"sound": "bf",
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "sad4",
+			"text": "guess... i am single..."
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "remorse",
+			"text": "BF... I am sorry for you... the reason she is acting like that is all because of smoking."
+		},
+		{
+			"sound": "win",
+			"speed": 0.065,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "disgust",
+			"text": "But i don't want to dive in on details because I am about to vomit..."
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Well that's disgusting but ok..?"
+		}
+	]
+}

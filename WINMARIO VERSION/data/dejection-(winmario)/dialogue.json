@@ -1,0 +1,45 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "The Future WinMario will be only talking in 3 Week 13 songs.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "H1 W1NM@R10, 7H3Y H1R3D M3 70 K1LL Y0U!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "vigilance",
+			"text": "No need to bother. Because I have a deal.",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "vigilance",
+			"text": "If you win, I die. And if I win, then you die! Deal?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "D3@L!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		}
+	],
+	"style": ""
+}

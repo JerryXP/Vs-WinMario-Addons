@@ -1,0 +1,13 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "That's it. I'm done.",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		}
+	],
+	"style": ""
+}

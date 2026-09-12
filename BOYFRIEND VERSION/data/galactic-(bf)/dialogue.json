@@ -1,0 +1,93 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "That High Pitch I did, God Damn!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "True!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "confused",
+			"text": "But wait, why does it look more purple now?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "anticipation",
+			"text": "I don't know.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "ecstasy",
+			"text": "But the main thing is, we have to do the last song because I have to go back to parallel universe.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh ok!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "interest",
+			"text": "Do you know why?",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Yes, it's because...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "All: You're/I'm an opposite version of Windows Mario/Luigi XP!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "serenity",
+			"text": "There you go! Now let's do the last song!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "excited",
+			"text": "Okay!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

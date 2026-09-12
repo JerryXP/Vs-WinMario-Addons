@@ -1,0 +1,69 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "way to go!!",
+			"boxState": "normal",
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "Thank you mustache man, now we-",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "Hey! Don't leave me all the alone! Have you seen Luigi?",
+			"boxState": "normal",
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "talk",
+			"text": "no we don-",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "excited",
+			"text": "yahoo! it's a luigi time!",
+			"boxState": "normal",
+			"sound": "luigi",
+			"speed": 0.05,
+			"portrait": "luigi"
+		},
+		{
+			"expression": "excited",
+			"text": "hey luigi! it's time for you to join us, let's a go!",
+			"boxState": "normal",
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario"
+		},
+		{
+			"expression": "excited",
+			"text": "ok!",
+			"boxState": "normal",
+			"sound": "luigi",
+			"speed": 0.05,
+			"portrait": "luigi"
+		},
+		{
+			"expression": "talk",
+			"text": "oh, well damn. okay i think i am ready for one last time.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,86 @@
+{
+	"storyName": "",
+	"difficulties": "Impossible",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "special_8",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ballistic",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Bad Time",
+			"apple-angry-free",
+			[
+				60,
+				40,
+				80
+			]
+		],
+		[
+			"Nonsensical",
+			"windows-angry-new-free",
+			[
+				100,
+				0,
+				0
+			]
+		],
+		[
+			"Expurgation",
+			"CorruptedBF-free",
+			[
+				128,
+				0,
+				64
+			]
+		],
+		[
+			"GOD EATER",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Synergy",
+			"mario-and-luigi",
+			[
+				64,
+				64,
+				0
+			]
+		],
+		[
+			"Ectospasm",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WinMario Impossible",
+	"hiddenUntilUnlocked": false
+}

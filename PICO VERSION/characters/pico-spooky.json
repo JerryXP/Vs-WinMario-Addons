@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [-12, 57],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "zico idle"
+		},
+		{
+			"offsets": [71, 60],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "zico right0"
+		},
+		{
+			"offsets": [-61, -19],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "zico down0"
+		},
+		{
+			"offsets": [-39, 63],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "zico up0"
+		},
+		{
+			"offsets": [-60, 68],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "zico left0"
+		},
+		{
+			"offsets": [67, 62],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "zico left miss"
+		},
+		{
+			"offsets": [-59, -15],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "zico down miss"
+		},
+		{
+			"offsets": [-39, 65],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "zico up miss"
+		},
+		{
+			"offsets": [-59, 67],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "zico right miss"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/zico",
+	"position": [0, 350],
+	"healthicon": "pico",
+	"flip_x": false,
+	"healthbar_colors": [183, 216, 83],
+	"camera_position": [50, -20],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

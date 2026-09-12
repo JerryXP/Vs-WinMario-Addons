@@ -1,0 +1,117 @@
+{
+	"dialogue": [
+		{
+			"expression": "joy",
+			"text": "Wonderful! Let's go to-",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Wait...",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Oh no... (huffing & puffing)",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "You good bro?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, Hey, take it easy!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "apprehension",
+			"text": "I am sorry you guys, it's just...",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "macn"
+		},
+		{
+			"expression": "fear",
+			"text": "I AM HAVING AN ANXIETY ATTACK.",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok buddy, anxiety is a strong word.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Speaking of that, how did you get that?",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "fear",
+			"text": "AFTER MR. GLITCH CAPTURED & CORRUPTED BY ME!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "fear",
+			"text": "AND NOW I CAN'T GET THAT THING OUT OF MY HEAD!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh sh*t, this isn't good.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "fear",
+			"text": "Hey, don't worry, maybe the last song will help.",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.04,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't know about that but sure.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

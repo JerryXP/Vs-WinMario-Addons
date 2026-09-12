@@ -1,0 +1,101 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Okay, but this is another stage?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "I think so, yea?",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay, I am now home-",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "shocked",
+			"text": "!!!",
+			"boxState": "angry",
+			"sound": "px",
+			"speed": 0.04,
+			"portrait": "px"
+		},
+		{
+			"expression": "confused",
+			"text": "???",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.07,
+			"portrait": "px"
+		},
+		{
+			"expression": "confused",
+			"text": "Pico & Nene? What are you doing inside of my house?",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "Idk, the portal appears and we enter it, and it took us here!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "confused",
+			"text": "Ok, Let me check the cameras.",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "*Meanwhile*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, that checks out.",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "Yep, now let's sing.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "excited",
+			"text": "Ok",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		}
+	],
+	"style": ""
+}

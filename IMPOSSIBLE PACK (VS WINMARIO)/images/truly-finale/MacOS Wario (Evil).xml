@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MacOS Wario (Evil).png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle0000" x="0" y="0" width="755" height="773" frameX="-172" frameY="-113" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="Idle0001" x="0" y="0" width="755" height="773" frameX="-172" frameY="-113" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="Idle0002" x="755" y="0" width="761" height="754" frameX="-173" frameY="-131" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="Idle0003" x="755" y="0" width="761" height="754" frameX="-173" frameY="-131" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="Idle0004" x="1516" y="0" width="771" height="743" frameX="-171" frameY="-138" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="Idle0005" x="1516" y="0" width="771" height="743" frameX="-171" frameY="-138" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="Idle0006" x="755" y="0" width="761" height="754" frameX="-173" frameY="-131" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="Idle0007" x="755" y="0" width="761" height="754" frameX="-173" frameY="-131" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="Idle0008" x="0" y="0" width="755" height="773" frameX="-172" frameY="-113" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="Idle0009" x="0" y="0" width="755" height="773" frameX="-172" frameY="-113" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>

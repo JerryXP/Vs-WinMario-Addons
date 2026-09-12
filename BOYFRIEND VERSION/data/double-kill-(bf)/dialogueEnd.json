@@ -1,0 +1,29 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "way to go little guy!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "ty! now we have to go home! nice to meet you mario & luigi!"
+		},
+		{
+			"sound": "mario",
+			"speed": 0.05,
+			"portrait": "mario",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nice to meet you too! ok, bye bye!"
+		}
+	]
+}

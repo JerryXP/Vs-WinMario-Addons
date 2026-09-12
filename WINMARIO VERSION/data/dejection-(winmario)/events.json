@@ -1,0 +1,83 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set RTX Data", "0.22692307692308,0,0,0.29238763586602,0,0,0,0.44615384615385,0.91153846153846,0,0,0.34230769230769,0,50", ""]
+			]
+		],
+		[
+			4.46428571428571,
+			[
+				["Cinematics (With HUD)", "0.2", "90"]
+			]
+		],
+		[
+			70285.7142857143,
+			[
+				["Philly Glow Recreation", "1", ""]
+			]
+		],
+		[
+			71785.7142857143,
+			[
+				["Philly Glow Recreation", "1", ""]
+			]
+		],
+		[
+			73285.7142857143,
+			[
+				["Philly Glow Recreation", "1", ""]
+			]
+		],
+		[
+			74785.7142857143,
+			[
+				["Philly Glow Recreation", "1", ""]
+			]
+		],
+		[
+			76285.7142857143,
+			[
+				["Philly Glow Recreation", "1", ""]
+			]
+		],
+		[
+			77785.7142857143,
+			[
+				["Philly Glow Recreation", "1", ""]
+			]
+		],
+		[
+			79285.7142857143,
+			[
+				["Philly Glow Recreation", "1", ""]
+			]
+		],
+		[
+			80785.7142857143,
+			[
+				["Philly Glow Recreation", "1", ""]
+			]
+		],
+		[
+			82285.7142857143,
+			[
+				["Philly Glow Recreation", "0", ""]
+			]
+		],
+		[
+			143785.714285714,
+			[
+				["Play Animation", "attack", "BF"]
+			]
+		],
+		[
+			143973.214285714,
+			[
+				["Change Character", "Dad", "unknown"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

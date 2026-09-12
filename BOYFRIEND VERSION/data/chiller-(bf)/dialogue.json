@@ -1,0 +1,149 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Wow BF, too tell you the truth, it's a very nice Halloween Mansion!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Yeah it is!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Babe...",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.065,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah, what's up?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Can you still tell me what happened earlier & how did you get inside of the Glitched World?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "hmm... Well it's a long story but ok-",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "remorse",
+			"text": "Hey, sorry for the interruption.",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "remorse",
+			"text": "But can you help me? I'm in danger...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "macn"
+		},
+		{
+			"expression": "shocked",
+			"text": "Wait... You're in Danger?!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.045,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Is somebody targeting you?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.045,
+			"portrait": "gf"
+		},
+		{
+			"expression": "remorse",
+			"text": "Sort of, but I don't have a lot of time...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "macn"
+		},
+		{
+			"expression": "remorse",
+			"text": "If you see an Inverted version of me... Don't trust him...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.055,
+			"portrait": "macn"
+		},
+		{
+			"expression": "shocked",
+			"text": "Don't Trust Him?!",
+			"boxState": "angry",
+			"sound": "gf",
+			"speed": 0.04,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, I think he is talking about the White One that I saw inside the Glitched World.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Oh, okay so tried to rap battle at him.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "he-mad-ohno-2",
+			"text": "Ok...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "grief",
+			"text": "It's Too Late...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.08,
+			"portrait": "macn"
+		},
+		{
+			"expression": "talk",
+			"text": "BF & GF: HUH?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "unknown"
+		}
+	],
+	"style": ""
+}

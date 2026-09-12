@@ -1,0 +1,93 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Well, Well, look who is here...",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "the STUPID GREEN B*TCH WHO KILLED MY SON!!",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.04,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Son?!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "What son?!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "That corrupted b!tch one?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "DON'T YOU EVER CALL MY SON A B!TCH EVER AGAIN",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.04,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Bro calm down, it is not that serious.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.065,
+			"portrait": "pico"
+		},
+		{
+			"expression": "pissed",
+			"text": "F*CKINAUGGGGGG-",
+			"boxState": "angry",
+			"sound": "99",
+			"speed": 0.035,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.05,
+			"portrait": "99"
+		},
+		{
+			"expression": "pissed",
+			"text": "Let's sing before I will murder everyone...",
+			"boxState": "normal",
+			"sound": "99",
+			"speed": 0.06,
+			"portrait": "99"
+		},
+		{
+			"expression": "talk",
+			"text": "Damn, okay.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		}
+	],
+	"style": ""
+}

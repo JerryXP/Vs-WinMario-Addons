@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Thank you, well, let's go GF!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Okay!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "excited",
+			"text": "Thank you for coming GF and...",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "confused",
+			"text": "Uhh... What's your name?",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "excited",
+			"text": "Boyfriend!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "Yeah...",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.065,
+			"portrait": "dino"
+		},
+		{
+			"expression": "confused",
+			"text": "What about yours?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "DinoEvan or just Evan.",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		},
+		{
+			"expression": "excited",
+			"text": "Oh, well see you later, DinoEvan!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "You too, The Boyfriend!",
+			"boxState": "normal",
+			"sound": "dino",
+			"speed": 0.05,
+			"portrait": "dino"
+		}
+	],
+	"style": ""
+}

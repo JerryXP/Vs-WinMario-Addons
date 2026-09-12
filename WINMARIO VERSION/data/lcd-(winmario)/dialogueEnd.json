@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "joy",
+			"text": "(P): Wow, what a refresh!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "(F): Yep, now onto the next direction!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "optimism",
+			"text": "(F): And I also bring these!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "interest",
+			"text": "(P): A Pumpkin Skull Hat? It's not even Halloween!!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "(F): It doesn't matter. Now let's go or I'm about to slap you silly!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anger",
+			"text": "(P): GEEZ OKAY!!",
+			"boxState": "angry",
+			"sound": "win",
+			"speed": 0.04,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,24 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 0.7,
+	"image": "NENE_Dialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				260,
+				286
+			],
+			"loop_offsets": [
+				260,
+				286
+			],
+			"anim": "talk",
+			"idle_name": "NENE0",
+			"loop_name": "NENE LOOP"
+		}
+	]
+}

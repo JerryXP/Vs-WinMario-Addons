@@ -1,0 +1,117 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "All right, done! Now We leave!",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "excited",
+			"text": "Okay!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "(They all exit)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright bye BF & GF!",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "BF & GF: Bye!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "(Paxton exits)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "Alright let's go home, GF!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, bab-",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "(The Pipe opens.)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "confused",
+			"text": "Wait, what's that green pipe?",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "I don't know, but we should ignore it, right now.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "No no, It grows under there so we should go there!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BUT-"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "he-mad-ohno-3",
+			"text": "(groan) fine."
+		}
+	],
+	"style": ""
+}

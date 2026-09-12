@@ -1,0 +1,455 @@
+{
+	"storyName": "",
+	"difficulties": "Hard, Insane",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Win-Opheebop (Pico)",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		],
+		[
+			"RAM (Pico)",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		],
+		[
+			"Cob (Pico)",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		],
+        [
+			"Blue Balled (Pico)",
+			"apple-free",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Terminal (Pico)",
+			"apple-free",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Ejected (Pico)",
+			"apple-angry-free",
+			[
+				255,
+				0,
+				0
+			]
+		],
+        [
+			"Hello World (Pico)",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		],
+		[
+			"Java (Pico)",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		],
+		[
+			"LCD (Pico)",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		],
+        [
+			"Win-South (Pico)",
+			"windows-spooky-free",
+			[
+				128,
+				64,
+				0
+			]
+		],
+		[
+			"Shiver (Pico)",
+			"windows-spooky-free",
+			[
+				128,
+				64,
+				0
+			]
+		],
+		[
+			"Chiller (Pico)",
+			"apple-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+        [
+			"Feliz (Pico)",
+			"windows-christmas-free",
+			[
+				0,
+				128,
+				0
+			]
+		],
+		[
+			"Win-Eggnog (Pico)",
+			"windows-christmas-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+		[
+			"Win-Eggnog II",
+			"icon-b2",
+			[
+				64,
+				128,
+				0
+			]
+		],
+        [
+			"Glitcher (Pico)",
+			"apple-og-free",
+			[
+				0,
+				0,
+				128
+			]
+		],
+		[
+			"Detected (Pico)",
+			"apple-angry-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+        [
+			"Danger (Pico)",
+			"mr-glitch-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Defeat (Pico)",
+			"mr-glitch-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Finale (Pico)",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+        [
+			"Sunsets (Pico)",
+			"apple-og-free",
+			[
+				64,
+				64,
+				64
+			]
+		],
+		[
+			"Galactic (Pico)",
+			"apple-og-free",
+			[
+				64,
+				64,
+				64
+			]
+		],
+        [
+			"Star Festival (Pico)",
+			"windows-erect-free",
+			[
+				0,
+				128,
+				64
+			]
+		],
+		[
+			"Weightless (Pico)",
+			"windows-erect-free",
+			[
+				0,
+				128,
+				64
+			]
+		],
+		[
+			"Stardust (Pico)",
+			"windows-erect-free",
+			[
+				0,
+				128,
+				64
+			]
+		],
+        [
+			"Disability (Pico)",
+			"dino-free",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Win-Blammed (Pico)",
+			"dino-free",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Hungry (HQ) (Pico)",
+			"dino-free",
+			[
+				255,
+				0,
+				0
+			]
+		],
+        [
+			"Carefree (Pico)",
+			"px-free",
+			[
+				128,
+				0,
+				255
+			]
+		],
+		[
+			"Win-High (Pico)",
+			"px-free",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Boogie (Pico)",
+			"px-free",
+			[
+				0,
+				0,
+				255
+			]
+		],
+        [
+			"Lo-Fight (Pico)",
+			"mario-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+		[
+			"Godrays (Pico)",
+			"mario-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+		[
+			"Double Kill (Pico)",
+			"mario-and-luigi",
+			[
+				128,
+				0,
+				0
+			]
+		],
+        [
+			"Dejection (Pico)",
+			"pibgirlfriend-free",
+			[
+				150,
+				0,
+				0
+			]
+		],
+        [
+			"Angered Him (Pico)",
+			"pibboyfriend-free",
+			[
+				0,
+				150,
+				150
+			]
+		],
+		[
+			"Unknown Suffering (Pico)",
+			"windows-glitch-free",
+			[
+				150,
+				0,
+				150
+			]
+		],
+        [
+			"My Battle (Pico)",
+			"apple-og-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+		[
+			"Whitroll (Pico)",
+			"apple-og-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+		[
+			"Careless (Pico)",
+			"apple-og-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+        [
+			"Trouble (Pico)",
+			"bf-corrupted1-free",
+			[
+				0,
+				128,
+				255
+			]
+		],
+		[
+			"Onslaught (Pico)",
+			"CorruptedBF-free",
+			[
+				128,
+				0,
+				64
+			]
+		],
+		[
+			"You Cant Run (Pico)",
+			"CorruptedBF-free",
+			[
+				128,
+				0,
+				64
+			]
+		],
+		[
+			"Deathmatch (Pico)",
+			"mr-glitch-free",
+			[
+				0,
+				0,
+				0
+			]
+		],	
+		[
+			"Tormentor (Pico)",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		],	
+		[
+			"Remembrance (Pico)",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+        [
+			"Best Girl (Pico)",
+			"windows-end-free",
+			[
+				64,
+				0,
+				64
+			]
+		],
+		[
+			"Win-Milf (Pico)",
+			"windows-end-free",
+			[
+				32,
+				0,
+				32
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

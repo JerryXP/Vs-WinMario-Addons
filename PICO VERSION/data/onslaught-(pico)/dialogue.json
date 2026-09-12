@@ -1,0 +1,93 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "pico",
+			"speed": 0.04,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GAH-"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.04,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT THE HELL?!?!"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Did everything Broke, or is it my       hallucinations?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello... Pico"
+		},
+		{
+			"sound": "pico",
+			"speed": 0.06,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the..."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.07,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait..."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.045,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHERE IS NENE?"
+		},
+		{
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh... Don't Worry, everything has been taken care of."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean? You killed her?"
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bfcorrupted",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You will see, but for now let's sing."
+		},
+		{
+			"sound": "pico",
+			"speed": 0.045,
+			"portrait": "pico",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HUH?"
+		}
+	]
+}

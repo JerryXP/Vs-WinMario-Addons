@@ -1,0 +1,21 @@
+{
+	"dialogue": [
+		{
+			"expression": "WHAT THE FUCK?!",
+			"text": "Huh? He died already? I should've done that while I was singing with him!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Welp, there is the Purple Portal waiting for me, so let's go inside.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}

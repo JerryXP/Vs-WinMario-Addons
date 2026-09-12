@@ -1,0 +1,85 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Alright what's next to look for the opponents?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Idk!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "Ok-",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Hello, you are BF & GF right?",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "BF & GF: Yes!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "excited",
+			"text": "Wow, I am glad it's been 5 years since you guys fought the opponents!",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "confused",
+			"text": "Yeah it is! And now I have no idea what new opponents to fight off.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Uhh... You know what? Come with me, I will sing it with you.",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		},
+		{
+			"expression": "talk",
+			"text": "Okay! But remember, you can use the cover songs as you want.\r",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Oh, okay!",
+			"boxState": "normal",
+			"sound": "px",
+			"speed": 0.05,
+			"portrait": "px"
+		}
+	],
+	"style": ""
+}

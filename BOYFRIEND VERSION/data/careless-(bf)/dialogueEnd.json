@@ -1,0 +1,77 @@
+{
+	"dialogue": [
+		{
+			"expression": "trust",
+			"text": "Okay, now I am calm",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Okay, that is pretty scary.",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "joy",
+			"text": "I know but hey! Thank you for coming!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "excited",
+			"text": "Okay! Bye Bye!!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "optimism",
+			"text": "Bye!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.05,
+			"portrait": "macn"
+		},
+		{
+			"expression": "pissed",
+			"text": "Oh! There is the Black Portal while I am At it! Take me back home!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Wait a minute...",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "macn"
+		},
+		{
+			"expression": "fear",
+			"text": "OH NO!!! THAT'S A PORTAL TO GO TO MR. GLITCH!! AND I FORGOT TO TELL HIM ABOUT THE KILLER USB!!!",
+			"boxState": "angry",
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "macn"
+		},
+		{
+			"expression": "apprehension",
+			"text": "Oh no... I need to find somebody to help BF get out... FAST!!",
+			"boxState": "normal",
+			"sound": "mac",
+			"speed": 0.045,
+			"portrait": "macn"
+		}
+	],
+	"style": ""
+}

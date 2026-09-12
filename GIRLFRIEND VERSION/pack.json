@@ -1,0 +1,8 @@
+{
+	"name": "Vs. WinMario: Girlfriend Version",
+	"description": "Please use the mod called \"Vs. WinMario\" otherwise it will not work.\nMake sure it's 3.0 and above.\n\nThere is no dialogue or cutscene for this because I am lazy. and I\ngot better stuff to do. so... use your imagination about what is going on",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [160, 0, 112],
+	"discordRPC": "1472354394782830594"
+}

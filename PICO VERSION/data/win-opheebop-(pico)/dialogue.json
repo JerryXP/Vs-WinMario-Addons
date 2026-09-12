@@ -1,0 +1,157 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Nene what the hell are we doing here?",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "Well pico...",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Today is your Birthday.",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Wha-",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "SHUT UP",
+			"boxState": "angry",
+			"sound": "nene",
+			"speed": 0.04,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, damn!",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Hello, I heard yelling what is going-",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "fear",
+			"text": "!!!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "!!!",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "apprehension",
+			"text": "I'm sorry, but what in the god's name are you doing on my stage with those weapons?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "For protection.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "So I can stab Pico into a chest if he messed up :D",
+			"boxState": "normal",
+			"sound": "nene",
+			"speed": 0.05,
+			"portrait": "nene"
+		},
+		{
+			"expression": "interest",
+			"text": "Weird...",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.07,
+			"portrait": "win"
+		},
+		{
+			"expression": "talk",
+			"text": "Yea very funny, Nene.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "SHUT THE F*** UP",
+			"boxState": "angry",
+			"sound": "nene",
+			"speed": 0.035,
+			"portrait": "nene"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "talk",
+			"text": "I am tired, let's sing this s***.",
+			"boxState": "normal",
+			"sound": "pico",
+			"speed": 0.05,
+			"portrait": "pico"
+		},
+		{
+			"expression": "anticipation",
+			"text": "Okay..?",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.065,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

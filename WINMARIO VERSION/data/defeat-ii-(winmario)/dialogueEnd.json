@@ -1,0 +1,69 @@
+{
+	"style": "",
+	"dialogue": [
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "vigilance",
+			"text": "Two of them, done! You better take me home or all of them will disappear!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(The Blue Portal Opens up)"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "anticipation",
+			"text": "Huh? Is that Boy-"
+		},
+		{
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win",
+			"boxState": "normal",
+			"expression": "aggressivenes",
+			"text": "No... That's another fake one. Let's Go."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(He left.)"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace",
+			"boxState": "angry",
+			"expression": "rage",
+			"text": "IMPOSSIBLE!!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.035,
+			"portrait": "mace",
+			"boxState": "angry",
+			"expression": "rage",
+			"text": "HE DODGED THE BULLETS, AND KILL HIM TOO?!"
+		},
+		{
+			"sound": "mac",
+			"speed": 0.06,
+			"portrait": "mace",
+			"boxState": "normal",
+			"expression": "anger",
+			"text": "Grr... Glitch BF, this is your chance to get rid of him..."
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"dialogue": [
+		{
+			"expression": "optimism",
+			"text": "(F): Alright!! We're Back Here!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "anticipation",
+			"text": "(P): Inside of this Stage? I thought you said this stage is haunted!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "joy",
+			"text": "(F): I know, but this job needs to be done!! So shut the hell up, and let's go!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		},
+		{
+			"expression": "awe",
+			"text": "(P): Ok!! There is No Need to be Mad!!",
+			"boxState": "normal",
+			"sound": "win",
+			"speed": 0.05,
+			"portrait": "win"
+		}
+	],
+	"style": ""
+}

@@ -1,0 +1,151 @@
+{
+	"camera_boyfriend": [
+		-500,
+		-200
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "luigi",
+		"dad": "mario"
+	},
+	"girlfriend": [
+		400,
+		450
+	],
+	"stageUI": "",
+	"boyfriend": [
+		2000,
+		700
+	],
+	"objects": [
+		{
+			"x": -602,
+			"y": -301,
+			"scale": [
+				1,
+				1
+			],
+			"image": "NightXP",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1586,
+			"y": 731,
+			"scale": [
+				1,
+				1
+			],
+			"image": "characters/GF_assets",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"firstAnimation": "idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					],
+					"fps": 24,
+					"anim": "danceRight",
+					"loop": false,
+					"name": "GF Dancing Beat0"
+				},
+				{
+					"offsets": null,
+					"indices": [
+						30,
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					],
+					"fps": 24,
+					"anim": "danceLeft",
+					"loop": false,
+					"name": "GF Dancing Beat0"
+				},
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "idle",
+					"loop": true,
+					"name": "GF Dancing Beat0"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		500,
+		0
+	],
+	"defaultZoom": 0.4,
+	"camera_speed": 9,
+	"directory": "",
+	"opponent": [
+		100,
+		500
+	],
+	"camera_opponent": [
+		550,
+		0
+	],
+	"hide_girlfriend": false
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NENE_Dialogue.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="NENE0000" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="NENE0001" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="NENE0002" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="NENE0003" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="NENE0004" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="NENE LOOP0000" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="NENE LOOP0001" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="NENE LOOP0002" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="NENE LOOP0003" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+	<SubTexture name="NENE LOOP0004" x="0" y="0" width="974" height="886" frameX="-13" frameY="-57" frameWidth="1000" frameHeight="1000"/>
+</TextureAtlas>

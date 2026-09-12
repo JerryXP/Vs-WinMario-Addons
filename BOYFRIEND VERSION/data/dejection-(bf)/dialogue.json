@@ -1,0 +1,141 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Here is the story, BF and GF is having a great time",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "And then, when they sleep, Mr. Glitch sneaks up on BF and traps him inside the Glitch World.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "talk",
+			"text": "And here is the mayhem, begins.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "unknown"
+		},
+		{
+			"expression": "terror",
+			"text": "Huh? What happened? How did I get here?!?!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "H1 B@B3!!!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "hit",
+			"text": "What the? Who are you? GF snapped out of it!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "7H1$ 1$ M3 BF, @ND 1 H@V3 N0 $H@M3 0F 7H@7.",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "hit",
+			"text": "NO, NO, NO!!! THIS CANT BE TRUE!!!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "7H1$ 1$ 7RU3, 1 H@D @ M@K3UP F0R WH0L3 3N71R3 71M3!!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "sad1",
+			"text": "I... cant...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "Wait...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "If you have Makeup, then how do you have proper english?",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "he-mad-ohno-3",
+			"text": "And besides your species is the Glitch, which Normal one is a Demon!",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "enrage",
+			"text": "YOU'RE FAKE!!! WHY ARE TRYING TO MAKE ME HAVING EMOTIONAL BREAKDOWN?! AND MAKE BELIEVE THIS RUMOR?!?!",
+			"boxState": "angry",
+			"sound": "bf",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "UHH... D0N'7 W0RRY B0YFR13ND 1 W1LL M@K3 7H1$ UP T0 Y0U! >:)",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "talk",
+			"text": "1F Y0U W1N, Y0U'R3 FR33 T0 G0!! BU7 1F Y0U L0S7 7H3N M337 Y0UR N3W GF! G07 17?!",
+			"boxState": "normal",
+			"sound": "gf",
+			"speed": 0.05,
+			"portrait": "gf99"
+		},
+		{
+			"expression": "shocked",
+			"text": "yes...",
+			"boxState": "normal",
+			"sound": "bf",
+			"speed": 0.07,
+			"portrait": "bf"
+		}
+	],
+	"style": ""
+}
