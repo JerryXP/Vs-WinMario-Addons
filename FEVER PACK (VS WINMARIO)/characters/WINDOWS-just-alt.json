@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [265, 327],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey",
+			"indices": []
+		},
+		{
+			"offsets": [265, 325],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [264, 324],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left-Alt0"
+		},
+		{
+			"offsets": [265, 324],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down-Alt0"
+		},
+		{
+			"offsets": [265, 343],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up-Alt0"
+		},
+		{
+			"offsets": [278, 306],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right-Alt0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/WinMario_v3.0",
+	"position": [-20, 360],
+	"healthicon": "windows",
+	"flip_x": false,
+	"healthbar_colors": [128, 0, 128],
+	"camera_position": [10, -160],
+	"sing_duration": 8,
+	"scale": 0.65,
+	"_editor_isPlayer": false
+}

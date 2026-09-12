@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"offsets": [263, 325],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [265, 343],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [266, 325],
+			"loop": false,
+			"fps": 30,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Dodge"
+		},
+		{
+			"offsets": [266, 326],
+			"loop": false,
+			"fps": 30,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Hurt"
+		},
+		{
+			"offsets": [267, 324],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left-alt (opp)"
+		},
+		{
+			"offsets": [278, 306],
+			"loop": false,
+			"fps": 32,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right (opp)"
+		},
+		{
+			"offsets": [266, 325],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down-alt"
+		},
+		{
+			"offsets": [266, 343],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up-alt0"
+		},
+		{
+			"offsets": [280, 307],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right-alt (opp)"
+		},
+		{
+			"offsets": [266, 326],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left (opp)"
+		},
+		{
+			"loop": false,
+			"offsets": [265, 325],
+			"anim": "idle",
+			"fps": 28,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [265, 327],
+			"indices": [],
+			"fps": 30,
+			"anim": "hey",
+			"loop": false,
+			"name": "Hey"
+		},
+		{
+			"offsets": [263, 325],
+			"indices": [21],
+			"fps": 24,
+			"anim": "hey-stop",
+			"loop": true,
+			"name": "Hey!"
+		},
+		{
+			"offsets": [264, 325],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey-loop",
+			"loop": true,
+			"name": "Hey!"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Space-WinMario",
+	"position": [-20, 360],
+	"healthicon": "windows-space",
+	"flip_x": false,
+	"healthbar_colors": [128, 0, 128],
+	"camera_position": [10, -160],
+	"sing_duration": 8,
+	"scale": 0.65,
+	"_editor_isPlayer": false
+}

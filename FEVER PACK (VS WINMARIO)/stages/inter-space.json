@@ -1,0 +1,291 @@
+{
+	"camera_boyfriend": [
+		-505,
+		-105
+	],
+	"preload": {
+	},
+	"_editorMeta": {
+		"boyfriend": "bf-star",
+		"dad": "Space-WinMario",
+		"gf": "gf-star"
+	},
+	"boyfriend": [
+		919,
+		193
+	],
+	"stageUI": "",
+	"girlfriend": [
+		49,
+		188
+	],
+	"defaultZoom": 0.4,
+	"objects": [
+		{
+			"x": -1362,
+			"y": -626,
+			"scale": [
+				1.9,
+				1.9
+			],
+			"image": "inter-space/ending",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "WinXP-Hill-End",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1489,
+			"y": -512,
+			"scale": [
+				1.5,
+				1.5
+			],
+			"image": "inter-space/10",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "black-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1420,
+			"y": -570,
+			"scale": [
+				2,
+				2
+			],
+			"image": "inter-space/9",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "white-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1422,
+			"y": -550,
+			"scale": [
+				2,
+				2
+			],
+			"image": "inter-space/8",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "pink-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1415,
+			"y": -563,
+			"scale": [
+				2,
+				2
+			],
+			"image": "inter-space/7",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "purple-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1440,
+			"y": -552,
+			"scale": [
+				2,
+				2
+			],
+			"image": "inter-space/6",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "blue-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1425,
+			"y": -560,
+			"scale": [
+				2,
+				2
+			],
+			"image": "inter-space/5",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "cyan-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1438,
+			"y": -558,
+			"scale": [
+				2,
+				2
+			],
+			"image": "inter-space/4",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "green-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1430,
+			"y": -545,
+			"scale": [
+				2,
+				2
+			],
+			"image": "inter-space/3",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "yellow-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1410,
+			"y": -538,
+			"scale": [
+				2,
+				2
+			],
+			"image": "inter-space/2",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "orange-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1397,
+			"y": -550,
+			"scale": [
+				2,
+				2
+			],
+			"image": "inter-space/1",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "red-star",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		-619,
+		211
+	],
+	"directory": "",
+	"camera_speed": 2,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		400,
+		-55
+	]
+}

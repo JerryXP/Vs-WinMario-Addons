@@ -1,0 +1,143 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [251, 306],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "Left (player)",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [263, 325],
+			"anim": "singDOWN",
+			"fps": 27,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [265, 343],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 324],
+			"anim": "singRIGHT",
+			"fps": 28,
+			"name": "Right (player)",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [253, 306],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left-miss (player)",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [268, 321],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [264, 344],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up-miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [268, 326],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right-miss (player)",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [252, 304],
+			"anim": "singLEFT-alt",
+			"fps": 30,
+			"name": "Left-alt (player)",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 325],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 343],
+			"anim": "singUP-alt",
+			"fps": 28,
+			"name": "Up-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 326],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Right-alt (player)",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [265, 324],
+			"anim": "hey",
+			"fps": 30,
+			"name": "Hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 326],
+			"anim": "hurt",
+			"fps": 25,
+			"name": "Hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [266, 325],
+			"anim": "dodge",
+			"fps": 41,
+			"name": "Dodge",
+			"indices": []
+		},
+		{
+			"offsets": [265, 325],
+			"indices": [],
+			"fps": 28,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Space-WinMario",
+	"position": [-20, 360],
+	"healthicon": "windows-space",
+	"flip_x": false,
+	"healthbar_colors": [128, 0, 128],
+	"camera_position": [140, -130],
+	"sing_duration": 8,
+	"scale": 0.65,
+	"_editor_isPlayer": true
+}

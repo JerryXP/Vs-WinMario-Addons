@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "winvolumeFE",
+  "artists": ["Fever Pack"],
+  "albumArtAsset": "freeplay/albumRoll/winvolumeFE",
+  "albumTitleAsset": "freeplay/albumRoll/winvolumeFE-text"
+}

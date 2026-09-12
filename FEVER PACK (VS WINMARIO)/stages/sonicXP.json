@@ -1,0 +1,75 @@
+{
+	"camera_boyfriend": [
+		-605,
+		-105
+	],
+	"_editorMeta": {
+		"boyfriend": "WINDOWS-player",
+		"gf": "bfonspeakerslol",
+		"dad": "Soap Sonic"
+	},
+	"preload": {
+		"images/stage_light": 2,
+		"images/stagecurtains": 2,
+		"images/stagefront": 3,
+		"images/stageback": 3
+	},
+	"girlfriend": [
+		1268,
+		769
+	],
+	"stageUI": "",
+	"boyfriend": [
+		2257,
+		800
+	],
+	"objects": [
+		{
+			"x": -627,
+			"y": -511,
+			"scale": [
+				1.5,
+				1.5
+			],
+			"image": "SonicXP",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "SonicXP",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		50,
+		0
+	],
+	"defaultZoom": 0.35,
+	"camera_speed": 2,
+	"directory": "week1",
+	"opponent": [
+		632,
+		785
+	],
+	"camera_opponent": [
+		350,
+		-100
+	],
+	"hide_girlfriend": false
+}

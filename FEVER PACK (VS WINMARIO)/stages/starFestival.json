@@ -1,0 +1,174 @@
+{
+	"camera_boyfriend": [
+		-255,
+		-155
+	],
+	"_editorMeta": {
+		"boyfriend": "WINDOWS-player",
+		"gf": "unknown",
+		"dad": "mario"
+	},
+	"preload": {
+		"images/stage_light": 2,
+		"images/stagecurtains": 2,
+		"images/stagefront": 3,
+		"images/stageback": 3
+	},
+	"girlfriend": [
+		398,
+		295
+	],
+	"stageUI": "",
+	"boyfriend": [
+		1052,
+		329
+	],
+	"objects": [
+		{
+			"x": -477,
+			"y": -211,
+			"scale": [
+				1,
+				1
+			],
+			"image": "stages/festival/StarrySky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "StarrySky",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -477,
+			"y": -211,
+			"scale": [
+				1,
+				1
+			],
+			"image": "stages/festival/CastleGrounds",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "CastleGrounds",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -477,
+			"y": -211,
+			"scale": [
+				1,
+				1
+			],
+			"image": "stages/festival/StarFestival",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "StarFestival",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -490,
+			"y": -216,
+			"scale": [
+				1,
+				1
+			],
+			"image": "stages/festival/Fireworks",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Fireworks",
+			"firstAnimation": "dance",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"offsets": null,
+					"indices": [],
+					"fps": 24,
+					"anim": "dance",
+					"loop": true,
+					"name": "fireworks"
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -1282,
+			"y": -515,
+			"scale": [
+				1.5,
+				1.5
+			],
+			"image": "stages/festival/light",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Light",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"camera_girlfriend": [
+		100,
+		-50
+	],
+	"defaultZoom": 0.55,
+	"camera_speed": 1.5,
+	"directory": "",
+	"opponent": [
+		94,
+		336
+	],
+	"camera_opponent": [
+		210,
+		-50
+	],
+	"hide_girlfriend": false
+}

@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"offsets": [61, 32],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario Down"
+		},
+		{
+			"offsets": [81, 124],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario Up"
+		},
+		{
+			"offsets": [86, 114],
+			"loop": false,
+			"fps": 24,
+			"anim": "UGH",
+			"indices": [],
+			"name": "Mario Ugh"
+		},
+		{
+			"offsets": [86, 115],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "Mario Ugh"
+		},
+		{
+			"offsets": [36, 102],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey-alt",
+			"indices": [],
+			"name": "Mario Thumbs Up"
+		},
+		{
+			"offsets": [54, 109],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Mario Peace Sign"
+		},
+		{
+			"offsets": [187, 76],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mario Right"
+		},
+		{
+			"offsets": [138, 106],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mario Left"
+		},
+		{
+			"offsets": [21, 117],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mario Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [86, 117],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [86, 118],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [84, 117],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [85, 118],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Miss0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/player/FireMarioAssets",
+	"position": [0, 300],
+	"healthicon": "mario",
+	"flip_x": false,
+	"healthbar_colors": [237, 28, 36],
+	"camera_position": [200, -30],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

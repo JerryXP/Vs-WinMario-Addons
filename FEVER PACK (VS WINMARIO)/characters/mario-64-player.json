@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [-11, 57],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Super Mario up"
+		},
+		{
+			"offsets": [20, 24],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Super Mario left"
+		},
+		{
+			"offsets": [-30, 10],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Super Mario down"
+		},
+		{
+			"offsets": [-26, 14],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Super Mario right"
+		},
+		{
+			"offsets": [-3, 19],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Super Mario lmiss"
+		},
+		{
+			"offsets": [-35, -8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Super Mario dmiss"
+		},
+		{
+			"offsets": [-40, -3],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Super Mario umiss"
+		},
+		{
+			"offsets": [-26, -1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Super Mario rmiss"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [6, 7, 8, 5],
+			"fps": 20,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "Super Mario idle"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [1, 2, 3, 4, 5],
+			"fps": 20,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "Super Mario idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Super Mario",
+	"position": [-80, 10],
+	"healthicon": "mario",
+	"flip_x": true,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [30, 110],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

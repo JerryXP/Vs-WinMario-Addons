@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [383, 403],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "shit"
+		},
+		{
+			"offsets": [382, 404],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "shit"
+		},
+		{
+			"offsets": [382, 402],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "shit"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/player/LuigiDead",
+	"position": [0, 350],
+	"healthicon": "luigi",
+	"flip_x": true,
+	"healthbar_colors": [0, 153, 0],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.3,
+	"_editor_isPlayer": true
+}

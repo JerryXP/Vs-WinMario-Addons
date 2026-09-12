@@ -1,0 +1,95 @@
+{
+	"storyName": "",
+	"difficulties": "Fever",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "special_8",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Cuberoot",
+			"mario-and-luigi",
+			[
+				192,
+				192,
+				0
+			]
+		],
+		[
+			"Security",
+			"sonic-free",
+			[
+				0,
+				0,
+				192
+			]
+		],
+		[
+			"Interdimensional",
+			"windows-space-free",
+			[
+				192,
+				0,
+				192
+			]
+		],
+		[
+			"Polygonized",
+			"mr-glitch-free",
+			[
+				32,
+				0,
+				0
+			]
+		],
+		[
+			"Event Horizon",
+			"mario-free",
+			[
+				192,
+				0,
+				0
+			]
+		],
+		[
+			"Blackout",
+			"baldi-mad-free",
+			[
+				64,
+				255,
+				0
+			]
+		],
+		[
+			"The Anger of God",
+			"mr-glitch-free",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"HELLHOLE",
+			"mr-glitch-error-free",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WinMario Fever",
+	"hiddenUntilUnlocked": false
+}

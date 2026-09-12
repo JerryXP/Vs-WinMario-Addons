@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-80, -260],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [-112, -256],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [-100, -264],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [-151, -263],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [-110, -255],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "slap"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/baldi-furious",
+	"position": [0, 0],
+	"healthicon": "baldi-mad",
+	"flip_x": false,
+	"healthbar_colors": [0, 254, 0],
+	"camera_position": [-110, 0],
+	"sing_duration": 6.1,
+	"scale": 3,
+	"_editor_isPlayer": false
+}

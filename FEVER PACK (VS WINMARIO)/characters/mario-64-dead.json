@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [129, -239],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Death idle"
+		},
+		{
+			"offsets": [131, -240],
+			"indices": [19],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "Death idle"
+		},
+		{
+			"offsets": [126, -240],
+			"indices": [19],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "Death idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Death",
+	"position": [50, -230],
+	"healthicon": "mario",
+	"flip_x": true,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [80, 390],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}
