@@ -1,0 +1,95 @@
+{
+	"storyName": "",
+	"difficulties": "Cold",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "special_8",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Singularity",
+			"windows-free",
+			[
+				128,
+				0,
+				128
+			]
+		],
+		[
+			"Nyaw",
+			"luigi-free",
+			[
+				0,
+				128,
+				0
+			]
+		],
+		[
+			"Overhead",
+			"gf",
+			[
+				128,
+				0,
+				0
+			]
+		],
+		[
+			"Bad Nun",
+			"apple-og-free",
+			[
+				128,
+				128,
+				128
+			]
+		],
+		[
+			"Accelerant",
+			"mario-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+		[
+			"Apprentice",
+			"dino-free",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"1CORE KILLER",
+			"icon-apple-angry-free",
+			[
+				128,
+				0,
+				0
+			]
+		],
+		[
+			"crystallized",
+			"icon-windows-free",
+			[
+				64,
+				0,
+				64
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "WinMario Cold",
+	"hiddenUntilUnlocked": false
+}

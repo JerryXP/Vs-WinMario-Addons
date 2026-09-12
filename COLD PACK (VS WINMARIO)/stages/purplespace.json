@@ -1,0 +1,113 @@
+{
+	"camera_boyfriend": [
+		-90,
+		-60
+	],
+	"_editorMeta": {
+		"boyfriend": "WINDOWS-player",
+		"gf": "unknown",
+		"dad": "unknown"
+	},
+	"girlfriend": [
+		440,
+		295
+	],
+	"isPixelStage": false,
+	"boyfriend": [
+		965,
+		295
+	],
+	"objects": [
+		{
+			"x": -1772,
+			"y": -956,
+			"scale": [
+				2,
+				2
+			],
+			"image": "purplespace/stageback",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bg",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.6,
+				0.6
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -489,
+			"y": -382,
+			"scale": [
+				1,
+				1
+			],
+			"image": "purplespace/bedroom-windows",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "window",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -539,
+			"y": -205,
+			"scale": [
+				1,
+				1
+			],
+			"image": "purplespace/bedroom",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bedroomFront",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		-60
+	],
+	"defaultZoom": 0.6,
+	"camera_speed": 8,
+	"directory": "",
+	"opponent": [
+		100,
+		295
+	],
+	"camera_opponent": [
+		40,
+		-60
+	],
+	"hide_girlfriend": false
+}
