@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [265, 325],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [266, 326],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left0"
+		},
+		{
+			"offsets": [266, 326],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Left-Alt0"
+		},
+		{
+			"offsets": [263, 325],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down0"
+		},
+		{
+			"offsets": [263, 325],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Down-Alt0"
+		},
+		{
+			"offsets": [265, 343],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up0"
+		},
+		{
+			"offsets": [265, 343],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "Up-Alt0"
+		},
+		{
+			"offsets": [278, 306],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right0"
+		},
+		{
+			"offsets": [278, 308],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Right-Alt0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/MacWario-nice-3.0",
+	"position": [-20, 360],
+	"healthicon": "apple-og",
+	"flip_x": false,
+	"healthbar_colors": [26, 26, 26],
+	"camera_position": [10, -160],
+	"sing_duration": 8,
+	"scale": 0.65,
+	"_editor_isPlayer": false
+}
