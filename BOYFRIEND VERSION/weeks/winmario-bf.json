@@ -18,7 +18,7 @@
 	"songs": [
         [
 			"Blue Balled (BF)",
-			"apple-free",
+			"apple",
 			[
 				255,
 				255,
@@ -27,7 +27,7 @@
 		],
 		[
 			"Terminal (BF)",
-			"apple-free",
+			"apple",
 			[
 				255,
 				255,
@@ -36,7 +36,7 @@
 		],
 		[
 			"Ejected (BF)",
-			"apple-angry-free",
+			"apple-angry",
 			[
 				255,
 				0,
@@ -45,7 +45,7 @@
 		],
 		[
 			"Chiller (BF)",
-			"apple-free",
+			"apple",
 			[
 				128,
 				128,
@@ -54,7 +54,7 @@
 		],
         [
 			"Glitcher (BF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				0,
 				0,
@@ -63,7 +63,7 @@
 		],
 		[
 			"Detected (BF)",
-			"apple-angry-free",
+			"apple-angry",
 			[
 				128,
 				0,
@@ -72,7 +72,7 @@
 		],
         [
 			"Danger (BF)",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -81,7 +81,7 @@
 		],
 		[
 			"Defeat (BF)",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -90,7 +90,7 @@
 		],
 		[
 			"Finale (BF)",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,
@@ -99,7 +99,7 @@
 		],
         [
 			"Sunsets (BF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				64,
 				64,
@@ -107,8 +107,8 @@
 			]
 		],
 		[
-			"Galactic (BF)",
-			"apple-og-free",
+			"Always Here (BF)",
+			"apple-og",
 			[
 				64,
 				64,
@@ -116,8 +116,8 @@
 			]
 		],
         [
-			"Disability (BF)",
-			"dino-free",
+			"Memories (BF)",
+			"dino",
 			[
 				255,
 				0,
@@ -126,7 +126,7 @@
 		],
 		[
 			"Win-Blammed (BF)",
-			"dino-free",
+			"dino",
 			[
 				255,
 				0,
@@ -135,7 +135,7 @@
 		],
 		[
 			"Hungry (HQ) (BF)",
-			"dino-free",
+			"dino",
 			[
 				255,
 				0,
@@ -144,7 +144,7 @@
 		],
         [
 			"Carefree (BF)",
-			"px-free",
+			"px",
 			[
 				128,
 				0,
@@ -153,7 +153,7 @@
 		],
 		[
 			"Win-High (BF)",
-			"px-free",
+			"px",
 			[
 				255,
 				255,
@@ -162,7 +162,7 @@
 		],
 		[
 			"Boogie (BF)",
-			"px-free",
+			"px",
 			[
 				0,
 				0,
@@ -171,7 +171,7 @@
 		],
         [
 			"Lo-Fight (BF)",
-			"mario-free",
+			"mario",
 			[
 				128,
 				0,
@@ -180,7 +180,7 @@
 		],
 		[
 			"Godrays (BF)",
-			"mario-free",
+			"mario",
 			[
 				128,
 				0,
@@ -198,7 +198,7 @@
 		],
         [
 			"Dejection (BF)",
-			"pibgirlfriend-free",
+			"pibgirlfriend",
 			[
 				150,
 				0,
@@ -207,7 +207,7 @@
 		],
         [
 			"Defeat II (BF)",
-			"pibpico-free",
+			"pibpico",
 			[
 				0,
 				150,
@@ -216,7 +216,7 @@
 		],
 		[
 			"Unknown Suffering (BF)",
-			"windows-glitch-free",
+			"windows-glitch",
 			[
 				150,
 				0,
@@ -225,7 +225,7 @@
 		],
         [
 			"My Battle (BF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -234,7 +234,7 @@
 		],
 		[
 			"Whitroll (BF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -243,7 +243,7 @@
 		],
 		[
 			"Careless (BF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -252,7 +252,7 @@
 		],
         [
 			"Trouble (BF)",
-			"bf-corrupted1-free",
+			"bf-corrupted1",
 			[
 				0,
 				128,
@@ -261,7 +261,7 @@
 		],
 		[
 			"Onslaught (BF)",
-			"CorruptedBF-free",
+			"CorruptedBF",
 			[
 				128,
 				0,
@@ -270,7 +270,7 @@
 		],
 		[
 			"You Cant Run (BF)",
-			"CorruptedBF-free",
+			"CorruptedBF",
 			[
 				128,
 				0,
@@ -279,7 +279,7 @@
 		],
 		[
 			"Deathmatch (BF)",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -288,7 +288,7 @@
 		],	
 		[
 			"Tormentor (BF)",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,
@@ -297,7 +297,7 @@
 		],	
 		[
 			"Remembrance (BF)",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,

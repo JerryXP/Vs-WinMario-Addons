@@ -18,7 +18,7 @@
 	"songs": [
 		[
 			"Win-Opheebop (Pico)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -27,7 +27,7 @@
 		],
 		[
 			"RAM (Pico)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -36,7 +36,7 @@
 		],
 		[
 			"Cob (Pico)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -45,7 +45,7 @@
 		],
         [
 			"Blue Balled (Pico)",
-			"apple-free",
+			"apple",
 			[
 				255,
 				255,
@@ -54,7 +54,7 @@
 		],
 		[
 			"Terminal (Pico)",
-			"apple-free",
+			"apple",
 			[
 				255,
 				255,
@@ -63,7 +63,7 @@
 		],
 		[
 			"Ejected (Pico)",
-			"apple-angry-free",
+			"apple-angry",
 			[
 				255,
 				0,
@@ -72,7 +72,7 @@
 		],
         [
 			"Hello World (Pico)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -81,7 +81,7 @@
 		],
 		[
 			"Java (Pico)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -90,7 +90,7 @@
 		],
 		[
 			"LCD (Pico)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -99,7 +99,7 @@
 		],
         [
 			"Win-South (Pico)",
-			"windows-spooky-free",
+			"windows-spooky",
 			[
 				128,
 				64,
@@ -108,7 +108,7 @@
 		],
 		[
 			"Shiver (Pico)",
-			"windows-spooky-free",
+			"windows-spooky",
 			[
 				128,
 				64,
@@ -117,7 +117,7 @@
 		],
 		[
 			"Chiller (Pico)",
-			"apple-free",
+			"apple",
 			[
 				128,
 				128,
@@ -126,7 +126,7 @@
 		],
         [
 			"Feliz (Pico)",
-			"windows-christmas-free",
+			"windows-christmas",
 			[
 				0,
 				128,
@@ -135,7 +135,7 @@
 		],
 		[
 			"Win-Eggnog (Pico)",
-			"windows-christmas-free",
+			"windows-christmas",
 			[
 				128,
 				0,
@@ -153,7 +153,7 @@
 		],
         [
 			"Glitcher (Pico)",
-			"apple-og-free",
+			"apple-og",
 			[
 				0,
 				0,
@@ -162,7 +162,7 @@
 		],
 		[
 			"Detected (Pico)",
-			"apple-angry-free",
+			"apple-angry",
 			[
 				128,
 				0,
@@ -171,7 +171,7 @@
 		],
         [
 			"Danger (Pico)",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -180,7 +180,7 @@
 		],
 		[
 			"Defeat (Pico)",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -189,7 +189,7 @@
 		],
 		[
 			"Finale (Pico)",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,
@@ -198,7 +198,7 @@
 		],
         [
 			"Sunsets (Pico)",
-			"apple-og-free",
+			"apple-og",
 			[
 				64,
 				64,
@@ -206,8 +206,8 @@
 			]
 		],
 		[
-			"Galactic (Pico)",
-			"apple-og-free",
+			"Always Here (Pico)",
+			"apple-og",
 			[
 				64,
 				64,
@@ -216,7 +216,7 @@
 		],
         [
 			"Star Festival (Pico)",
-			"windows-erect-free",
+			"windows-erect",
 			[
 				0,
 				128,
@@ -225,7 +225,7 @@
 		],
 		[
 			"Weightless (Pico)",
-			"windows-erect-free",
+			"windows-erect",
 			[
 				0,
 				128,
@@ -234,7 +234,7 @@
 		],
 		[
 			"Stardust (Pico)",
-			"windows-erect-free",
+			"windows-erect",
 			[
 				0,
 				128,
@@ -242,8 +242,8 @@
 			]
 		],
         [
-			"Disability (Pico)",
-			"dino-free",
+			"Memories (Pico)",
+			"dino",
 			[
 				255,
 				0,
@@ -252,7 +252,7 @@
 		],
 		[
 			"Win-Blammed (Pico)",
-			"dino-free",
+			"dino",
 			[
 				255,
 				0,
@@ -261,7 +261,7 @@
 		],
 		[
 			"Hungry (HQ) (Pico)",
-			"dino-free",
+			"dino",
 			[
 				255,
 				0,
@@ -270,7 +270,7 @@
 		],
         [
 			"Carefree (Pico)",
-			"px-free",
+			"px",
 			[
 				128,
 				0,
@@ -279,7 +279,7 @@
 		],
 		[
 			"Win-High (Pico)",
-			"px-free",
+			"px",
 			[
 				255,
 				255,
@@ -288,7 +288,7 @@
 		],
 		[
 			"Boogie (Pico)",
-			"px-free",
+			"px",
 			[
 				0,
 				0,
@@ -297,7 +297,7 @@
 		],
         [
 			"Lo-Fight (Pico)",
-			"mario-free",
+			"mario",
 			[
 				128,
 				0,
@@ -306,7 +306,7 @@
 		],
 		[
 			"Godrays (Pico)",
-			"mario-free",
+			"mario",
 			[
 				128,
 				0,
@@ -324,7 +324,7 @@
 		],
         [
 			"Dejection (Pico)",
-			"pibgirlfriend-free",
+			"pibgirlfriend",
 			[
 				150,
 				0,
@@ -333,7 +333,7 @@
 		],
         [
 			"Angered Him (Pico)",
-			"pibboyfriend-free",
+			"pibboyfriend",
 			[
 				0,
 				150,
@@ -342,7 +342,7 @@
 		],
 		[
 			"Unknown Suffering (Pico)",
-			"windows-glitch-free",
+			"windows-glitch",
 			[
 				150,
 				0,
@@ -351,7 +351,7 @@
 		],
         [
 			"My Battle (Pico)",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -360,7 +360,7 @@
 		],
 		[
 			"Whitroll (Pico)",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -369,7 +369,7 @@
 		],
 		[
 			"Careless (Pico)",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -378,7 +378,7 @@
 		],
         [
 			"Trouble (Pico)",
-			"bf-corrupted1-free",
+			"bf-corrupted1",
 			[
 				0,
 				128,
@@ -387,7 +387,7 @@
 		],
 		[
 			"Onslaught (Pico)",
-			"CorruptedBF-free",
+			"CorruptedBF",
 			[
 				128,
 				0,
@@ -396,7 +396,7 @@
 		],
 		[
 			"You Cant Run (Pico)",
-			"CorruptedBF-free",
+			"CorruptedBF",
 			[
 				128,
 				0,
@@ -405,7 +405,7 @@
 		],
 		[
 			"Deathmatch (Pico)",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -414,7 +414,7 @@
 		],	
 		[
 			"Tormentor (Pico)",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,
@@ -423,7 +423,7 @@
 		],	
 		[
 			"Remembrance (Pico)",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,
@@ -432,7 +432,7 @@
 		],
         [
 			"Best Girl (Pico)",
-			"windows-end-free",
+			"windows-end",
 			[
 				64,
 				0,
@@ -441,7 +441,7 @@
 		],
 		[
 			"Win-Milf (Pico)",
-			"windows-end-free",
+			"windows-end",
 			[
 				32,
 				0,

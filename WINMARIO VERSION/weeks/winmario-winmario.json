@@ -18,7 +18,7 @@
 	"songs": [
 		[
 			"Win-Opheebop (WinMario)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -27,7 +27,7 @@
 		],
 		[
 			"RAM (WinMario)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -36,7 +36,7 @@
 		],
 		[
 			"Cob (WinMario)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -45,7 +45,7 @@
 		],
         [
 			"Hello World (WinMario)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -54,7 +54,7 @@
 		],
 		[
 			"Java (WinMario)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -63,7 +63,7 @@
 		],
 		[
 			"LCD (WinMario)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -72,7 +72,7 @@
 		],
         [
 			"Win-South (WinMario)",
-			"windows-spooky-free",
+			"windows-spooky",
 			[
 				128,
 				64,
@@ -81,7 +81,7 @@
 		],
 		[
 			"Shiver (WinMario)",
-			"windows-spooky-free",
+			"windows-spooky",
 			[
 				128,
 				64,
@@ -90,7 +90,7 @@
 		],
         [
 			"Feliz (WinMario)",
-			"windows-christmas-free",
+			"windows-christmas",
 			[
 				0,
 				128,
@@ -99,7 +99,7 @@
 		],
 		[
 			"Win-Eggnog (WinMario)",
-			"windows-christmas-free",
+			"windows-christmas",
 			[
 				128,
 				0,
@@ -108,7 +108,7 @@
 		],
         [
 			"Star Festival (WinMario)",
-			"windows-erect-free",
+			"windows-erect",
 			[
 				0,
 				128,
@@ -117,7 +117,7 @@
 		],
 		[
 			"Weightless (WinMario)",
-			"windows-erect-free",
+			"windows-erect",
 			[
 				0,
 				128,
@@ -126,7 +126,7 @@
 		],
 		[
 			"Stardust (WinMario)",
-			"windows-erect-free",
+			"windows-erect",
 			[
 				0,
 				128,
@@ -135,7 +135,7 @@
 		],
         [
 			"Dejection (WinMario)",
-			"pibgirlfriend-free",
+			"pibgirlfriend",
 			[
 				150,
 				0,
@@ -144,7 +144,7 @@
 		],
         [
 			"Defeat II (WinMario)",
-			"pibpico-free",
+			"pibpico",
 			[
 				0,
 				150,
@@ -153,7 +153,7 @@
 		],
 		[
 			"Angered Him (WinMario)",
-			"pibboyfriend-free",
+			"pibboyfriend",
 			[
 				0,
 				150,
@@ -162,7 +162,7 @@
 		],
         [
 			"Best Girl (WinMario)",
-			"windows-end-free",
+			"windows-end",
 			[
 				64,
 				0,
@@ -171,7 +171,7 @@
 		],
 		[
 			"Win-Milf (WinMario)",
-			"windows-end-free",
+			"windows-end",
 			[
 				32,
 				0,

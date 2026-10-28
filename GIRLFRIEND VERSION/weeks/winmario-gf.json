@@ -18,7 +18,7 @@
 	"songs": [
 		[
 			"Win-Opheebop (GF)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -27,7 +27,7 @@
 		],
 		[
 			"RAM (GF)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -36,7 +36,7 @@
 		],
 		[
 			"Cob (GF)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -45,7 +45,7 @@
 		],
         [
 			"Blue Balled (GF)",
-			"apple-free",
+			"apple",
 			[
 				255,
 				255,
@@ -54,7 +54,7 @@
 		],
 		[
 			"Terminal (GF)",
-			"apple-free",
+			"apple",
 			[
 				255,
 				255,
@@ -63,7 +63,7 @@
 		],
 		[
 			"Ejected (GF)",
-			"apple-angry-free",
+			"apple-angry",
 			[
 				255,
 				0,
@@ -72,7 +72,7 @@
 		],
         [
 			"Hello World (GF)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -81,7 +81,7 @@
 		],
 		[
 			"Java (GF)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -90,7 +90,7 @@
 		],
 		[
 			"LCD (GF)",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -99,7 +99,7 @@
 		],
         [
 			"Win-South (GF)",
-			"windows-spooky-free",
+			"windows-spooky",
 			[
 				128,
 				64,
@@ -108,7 +108,7 @@
 		],
 		[
 			"Shiver (GF)",
-			"windows-spooky-free",
+			"windows-spooky",
 			[
 				128,
 				64,
@@ -117,7 +117,7 @@
 		],
 		[
 			"Chiller (GF)",
-			"apple-free",
+			"apple",
 			[
 				128,
 				128,
@@ -126,7 +126,7 @@
 		],
         [
 			"Feliz (GF)",
-			"windows-christmas-free",
+			"windows-christmas",
 			[
 				0,
 				128,
@@ -135,7 +135,7 @@
 		],
 		[
 			"Win-Eggnog (GF)",
-			"windows-christmas-free",
+			"windows-christmas",
 			[
 				128,
 				0,
@@ -144,7 +144,7 @@
 		],
         [
 			"Glitcher (GF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				0,
 				0,
@@ -153,7 +153,7 @@
 		],
 		[
 			"Detected (GF)",
-			"apple-angry-free",
+			"apple-angry",
 			[
 				128,
 				0,
@@ -162,7 +162,7 @@
 		],
         [
 			"Danger (GF)",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -171,7 +171,7 @@
 		],
 		[
 			"Defeat (GF)",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -180,7 +180,7 @@
 		],
 		[
 			"Finale (GF)",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,
@@ -189,7 +189,7 @@
 		],
         [
 			"Sunsets (GF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				64,
 				64,
@@ -197,8 +197,8 @@
 			]
 		],
 		[
-			"Galactic (GF)",
-			"apple-og-free",
+			"Always Here (GF)",
+			"apple-og",
 			[
 				64,
 				64,
@@ -207,7 +207,7 @@
 		],
         [
 			"Star Festival (GF)",
-			"windows-erect-free",
+			"windows-erect",
 			[
 				0,
 				128,
@@ -216,7 +216,7 @@
 		],
 		[
 			"Weightless (GF)",
-			"windows-erect-free",
+			"windows-erect",
 			[
 				0,
 				128,
@@ -225,7 +225,7 @@
 		],
 		[
 			"Stardust (GF)",
-			"windows-erect-free",
+			"windows-erect",
 			[
 				0,
 				128,
@@ -233,8 +233,8 @@
 			]
 		],
         [
-			"Disability (GF)",
-			"dino-free",
+			"Memories (GF)",
+			"dino",
 			[
 				255,
 				0,
@@ -243,7 +243,7 @@
 		],
 		[
 			"Win-Blammed (GF)",
-			"dino-free",
+			"dino",
 			[
 				255,
 				0,
@@ -252,7 +252,7 @@
 		],
 		[
 			"Hungry (HQ) (GF)",
-			"dino-free",
+			"dino",
 			[
 				255,
 				0,
@@ -261,7 +261,7 @@
 		],
         [
 			"Carefree (GF)",
-			"px-free",
+			"px",
 			[
 				128,
 				0,
@@ -270,7 +270,7 @@
 		],
 		[
 			"Win-High (GF)",
-			"px-free",
+			"px",
 			[
 				255,
 				255,
@@ -279,7 +279,7 @@
 		],
 		[
 			"Boogie (GF)",
-			"px-free",
+			"px",
 			[
 				0,
 				0,
@@ -288,7 +288,7 @@
 		],
         [
 			"Lo-Fight (GF)",
-			"mario-free",
+			"mario",
 			[
 				128,
 				0,
@@ -297,7 +297,7 @@
 		],
 		[
 			"Godrays (GF)",
-			"mario-free",
+			"mario",
 			[
 				128,
 				0,
@@ -315,7 +315,7 @@
 		],
         [
 			"Defeat II (GF)",
-			"pibpico-free",
+			"pibpico",
 			[
 				0,
 				150,
@@ -324,7 +324,7 @@
 		],
         [
 			"Angered Him (GF)",
-			"pibboyfriend-free",
+			"pibboyfriend",
 			[
 				0,
 				150,
@@ -333,7 +333,7 @@
 		],
 		[
 			"Unknown Suffering (GF)",
-			"windows-glitch-free",
+			"windows-glitch",
 			[
 				150,
 				0,
@@ -342,7 +342,7 @@
 		],
         [
 			"My Battle (GF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -351,7 +351,7 @@
 		],
 		[
 			"Whitroll (GF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -360,7 +360,7 @@
 		],
 		[
 			"Careless (GF)",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -369,7 +369,7 @@
 		],
         [
 			"Trouble (GF)",
-			"bf-corrupted1-free",
+			"bf-corrupted1",
 			[
 				0,
 				128,
@@ -378,7 +378,7 @@
 		],
 		[
 			"Onslaught (GF)",
-			"CorruptedBF-free",
+			"CorruptedBF",
 			[
 				128,
 				0,
@@ -387,7 +387,7 @@
 		],
 		[
 			"You Cant Run (GF)",
-			"CorruptedBF-free",
+			"CorruptedBF",
 			[
 				128,
 				0,
@@ -396,7 +396,7 @@
 		],
 		[
 			"Deathmatch (GF)",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -405,7 +405,7 @@
 		],	
 		[
 			"Tormentor (GF)",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,
@@ -414,7 +414,7 @@
 		],	
 		[
 			"Remembrance (GF)",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,
@@ -423,7 +423,7 @@
 		],
         [
 			"Best Girl (GF)",
-			"windows-end-free",
+			"windows-end",
 			[
 				64,
 				0,
@@ -432,7 +432,7 @@
 		],
 		[
 			"Win-Milf (GF)",
-			"windows-end-free",
+			"windows-end",
 			[
 				32,
 				0,

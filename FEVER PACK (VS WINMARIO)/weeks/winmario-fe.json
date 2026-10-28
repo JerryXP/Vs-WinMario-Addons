@@ -17,7 +17,7 @@
 	],
 	"songs": [
 		[
-			"Cuberoot",
+			"Gravity",
 			"mario-and-luigi",
 			[
 				192,
@@ -27,7 +27,7 @@
 		],
 		[
 			"Security",
-			"sonic-free",
+			"sonic",
 			[
 				0,
 				0,
@@ -36,7 +36,7 @@
 		],
 		[
 			"Interdimensional",
-			"windows-space-free",
+			"windows-space",
 			[
 				192,
 				0,
@@ -45,7 +45,7 @@
 		],
 		[
 			"Polygonized",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				32,
 				0,
@@ -54,7 +54,7 @@
 		],
 		[
 			"Event Horizon",
-			"mario-free",
+			"mario",
 			[
 				192,
 				0,
@@ -63,7 +63,7 @@
 		],
 		[
 			"Blackout",
-			"baldi-mad-free",
+			"baldi-mad",
 			[
 				64,
 				255,
@@ -72,7 +72,7 @@
 		],
 		[
 			"The Anger of God",
-			"mr-glitch-free",
+			"mr-glitch",
 			[
 				0,
 				0,
@@ -81,7 +81,7 @@
 		],
 		[
 			"HELLHOLE",
-			"mr-glitch-error-free",
+			"mr-glitch-error",
 			[
 				0,
 				0,

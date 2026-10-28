@@ -45,7 +45,7 @@ function onCreatePost()
 end
 
 function onStepHit()
-    if curStep == 672 then 
+    if curStep == 16 then 
         removeLuaSprite('stageback', true)
         removeLuaSprite('walls', true)
         removeLuaSprite('stagefront', true)
@@ -54,7 +54,7 @@ function onStepHit()
 		removeLuaSprite('walls-social', false);
     end
 
-    if curStep == 1472 then
+    if curStep == 1040 then
         makeLuaSprite('stageback', 'StarStage/stageback', -600, -300);
 		setScrollFactor('stageback', 0.9, 0.9);
 		addLuaSprite('stageback', false);

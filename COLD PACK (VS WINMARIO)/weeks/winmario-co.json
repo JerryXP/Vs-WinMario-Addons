@@ -18,7 +18,7 @@
 	"songs": [
 		[
 			"Singularity",
-			"windows-free",
+			"windows",
 			[
 				128,
 				0,
@@ -27,7 +27,7 @@
 		],
 		[
 			"Nyaw",
-			"luigi-free",
+			"luigi",
 			[
 				0,
 				128,
@@ -45,7 +45,7 @@
 		],
 		[
 			"Bad Nun",
-			"apple-og-free",
+			"apple-og",
 			[
 				128,
 				128,
@@ -54,7 +54,7 @@
 		],
 		[
 			"Accelerant",
-			"mario-free",
+			"mario",
 			[
 				128,
 				0,
@@ -62,8 +62,8 @@
 			]
 		],
 		[
-			"Apprentice",
-			"dino-free",
+			"Asteroids",
+			"dino",
 			[
 				255,
 				0,
@@ -72,7 +72,7 @@
 		],
 		[
 			"1CORE KILLER",
-			"icon-apple-angry-free",
+			"icon-apple-angry",
 			[
 				128,
 				0,
@@ -81,7 +81,7 @@
 		],
 		[
 			"crystallized",
-			"icon-windows-free",
+			"icon-windows",
 			[
 				64,
 				0,
