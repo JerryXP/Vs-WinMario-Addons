@@ -1,0 +1,124 @@
+{
+  "sections": [
+    {
+        "section": "WinMario CO",
+        "people": [
+            { 
+                "name": "PaperKitty", 
+                "role": "Vs. Kapi (Legacy)", 
+                "link": "https://www.youtube.com/@casiopaper",
+                "color": "808080"
+            },
+            { 
+                "name": "sock.clip", 
+                "role": "Vs. Whitty Erect", 
+                "link": "https://www.instagram.com/sock.clip/",
+                "color": "808080"
+            },
+            { 
+                "name": "ChuckySkullHead", 
+                "role": "Vs. Whitty Erect", 
+                "link": "https://gamebanana.com/members/1991024",
+                "color": "808080"
+            },
+            { 
+                "name": "Foodeti", 
+                "role": "Friday Night Fever", 
+                "link": "https://www.youtube.com/@Foodieti",
+                "color": "808080"
+            },
+            { 
+                "name": "Philiplol", 
+                "role": "FNF ONLINE VS.", 
+                "link": "https://www.youtube.com/@philiplol1214",
+                "color": "808080"
+            },
+            { 
+                "name": "Lyfer!", 
+                "role": "Friday Night Madness", 
+                "link": "https://x.com/HardcoreLyfer",
+                "color": "808080"
+            },
+            { 
+                "name": "Camellia", 
+                "role": "crystallized (Inst)", 
+                "link": "https://x.com/cametek",
+                "color": "808080"
+            },
+            { 
+                "name": "tictacto", 
+                "role": "crystallized (Vocals)",
+                "color": "808080"
+            }
+        ]
+    },
+    {
+        "section": "WinMario CO: MIDIs & FLPs",
+        "people": [
+            { 
+                "name": "Fujiwara Zach Watterson", 
+                "role": "Singularity & Asteroid", 
+                "link": "https://gamebanana.com/members/1977810",
+                "color": "808080"
+            },
+            { 
+                "name": "AskR", 
+                "role": "Nyaw", 
+                "link": "https://www.youtube.com/@Ask306",
+                "color": "808080"
+            },
+            { 
+                "name": "superharoldbros", 
+                "role": "Overhead Erect", 
+                "link": "https://www.youtube.com/@superharoldbros89",
+                "color": "808080"
+            },
+            { 
+                "name": "Headman0213", 
+                "role": "Overhead Erect", 
+                "link": "https://www.youtube.com/@Headman0213",
+                "color": "808080"
+            },
+            { 
+                "name": "Thorn", 
+                "role": "Accelerant", 
+                "link": "https://www.youtube.com/@ThornFNF",
+                "color": "808080"
+            },
+            { 
+                "name": "Ivory muse1", 
+                "role": "1CORE KILLER", 
+                "link": "https://www.youtube.com/@ivorymuse12",
+                "color": "808080"
+            },
+            { 
+                "name": "heyitstoni", 
+                "role": "crystallized", 
+                "link": "https://www.youtube.com/@heyitstoni",
+                "color": "808080"
+            }
+        ]
+    },
+    {
+        "section": "WinMario CO: Scripts",
+        "people": [
+            { 
+                "name": "Seqezzy", 
+                "role": "Camera Movement (for crystallized)", 
+                "link": "https://gamebanana.com/members/2276797",
+                "color": "808080"
+            }
+        ]
+    },
+    {
+        "section": "WinMario CO: Assets",
+        "people": [
+            { 
+                "name": "somenteblack", 
+                "role": "Volcano BG (edited by me)",
+                "color": "808080"
+            }
+        ]
+    }
+  ] 
+}

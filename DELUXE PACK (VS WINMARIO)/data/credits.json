@@ -1,0 +1,114 @@
+{
+  "sections": [
+    {
+        "section": "WinMario DX",
+        "people": [
+            { 
+                "name": "atsuover", 
+                "role": "Vs. Garcello", 
+                "link": "https://gamebanana.com/members/1792259",
+                "color": "808080"
+            },
+            { 
+                "name": "fluffyhairs", 
+                "role": "Vs. Imposter", 
+                "link": "https://www.youtube.com/@fluffyhairsmusic",
+                "color": "808080"
+            },
+            { 
+                "name": "theWAHbox", 
+                "role": "Mario's Madness",
+                "link": "https://x.com/thewahbox",
+                "color": "808080"
+            },
+            { 
+                "name": "Sandi", 
+                "role": "Mario's Madness",
+                "link": "https://www.youtube.com/@Sandi334_",
+                "color": "808080"
+            },
+            { 
+                "name": "antinarious", 
+                "role": "Mario's Madness",
+                "link": "https://x.com/antinarious",
+                "color": "808080"
+            },
+            { 
+                "name": "Comodo_", 
+                "role": "Mario's Madness",
+                "link": "https://www.youtube.com/@comodo_814",
+                "color": "808080"
+            },
+            { 
+                "name": "Rozebud", 
+                "role": "Vs. Imposter", 
+                "icon": "rozebud",
+                "link": "https://www.youtube.com/@Rozebud",
+                "color": "6000FF"
+            },
+            { 
+                "name": "Doguy", 
+                "role": "Vs. Imposter",
+                "color": "6000FF"
+            },
+            { 
+                "name": "RedTv53", 
+                "role": "Mario's Madness",
+                "link": "https://x.com/RedTv_53",
+                "color": "808080"
+            },
+            { 
+                "name": "Marble Pawns", 
+                "role": "FNF HD",
+                "color": "808080"
+            }
+        ]
+    },
+    {
+        "section": "WinMario DX: MIDIs & FLPs",
+        "people": [
+            { 
+                "name": "Fujiwara Zach Watterson", 
+                "role": "Ultraviolet", 
+                "link": "https://gamebanana.com/members/1977810",
+                "color": "808080"
+            },
+            { 
+                "name": "Covers ZX", 
+                "role": "Nerves", 
+                "link": "https://www.youtube.com/@CoversZX",
+                "color": "808080"
+            },
+            { 
+                "name": "Chimmie The 2nd", 
+                "role": "Pinkwave & Identity Crisis",
+                "color": "808080"
+            },
+            { 
+                "name": "NintendoEXE24", 
+                "role": "It's a Me", 
+                "link": "https://gamebanana.com/members/2438127",
+                "color": "808080"
+            },
+            { 
+                "name": "Oswaldo88", 
+                "role": "Alone", 
+                "link": "https://www.youtube.com/@Oswaldo88_PPF",
+                "color": "808080"
+            },
+            { 
+                "name": "PhuTHGamer", 
+                "role": "Breaking Point", 
+                "link": "https://gamebanana.com/members/2453340",
+                "color": "808080"
+            },
+            { 
+                "name": "Sombrebread", 
+                "role": "Rano", 
+                "link": "https://gamebanana.com/members/1981756",
+                "color": "808080"
+            }
+        ]
+    }
+  ] 
+}

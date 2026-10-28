@@ -1,0 +1,142 @@
+{
+  "sections": [
+    {
+        "section": "WinMario FE",
+        "people": [
+            { 
+                "name": "Cval", 
+                "role": "Vs. Imposter", 
+                "link": "https://x.com/cval_brown",
+                "color": "808080"
+            },
+            { 
+                "name": "Lyfer!", 
+                "role": "Friday Night Madness", 
+                "link": "https://x.com/HardcoreLyfer",
+                "color": "808080"
+            },
+            { 
+                "name": "Rozebud", 
+                "role": "Vs. Tricky", 
+                "icon": "rozebud",
+                "link": "https://www.youtube.com/@Rozebud",
+                "color": "6000FF"
+            },
+            { 
+                "name": "trixinos", 
+                "role": "Wednesday's Infidelity",
+                "color": "808080"
+            }
+        ]
+    },
+    {
+        "section": "WinMario CO: MIDIs & FLPs",
+        "people": [
+            { 
+                "name": "Fujiwara Zach Watterson", 
+                "role": "Security, Gravity, and Event Horizon", 
+                "link": "https://gamebanana.com/members/1977810",
+                "color": "808080"
+            },
+            { 
+                "name": "lava chicken customer #937", 
+                "role": "Interdimensional", 
+                "link": "https://youtube.com/@slcc937",
+                "color": "808080"
+            },
+            { 
+                "name": "TheWorksofBH", 
+                "role": "edited the FLP/MIDI Interdimensional", 
+                "link": "https://youtube.com/@theWorksofBH",
+                "color": "808080"
+            },
+            { 
+                "name": "MoldyGH", 
+                "role": "Polygonized", 
+                "link": "https://www.youtube.com/@MoldyGangstaHero",
+                "color": "808080"
+            },
+            { 
+                "name": "Zachattack 945", 
+                "role": "Blackout", 
+                "link": "https://youtube.com/@ZachATK945",
+                "color": "808080"
+            },
+            { 
+                "name": "Ivory muse1", 
+                "role": "The Anger Of God & HELLHOLE", 
+                "link": "https://www.youtube.com/@ivorymuse12",
+                "color": "808080"
+            }
+        ]
+    },
+    {
+        "section": "WinMario CO: Scripts",
+        "people": [
+            { 
+                "name": "???_Luigie", 
+                "role": "Rainbow Eyesores (for polygonized)", 
+                "link": "https://space.bilibili.com/701798691/?spm_id_from=333.999.0.0",
+                "color": "808080"
+            },
+            { 
+                "name": "Killeredwin91", 
+                "role": "Play Video in Mid-Song (for blackout)", 
+                "link": "https://gamebanana.com/members/2098467",
+                "color": "808080"
+            }
+        ]
+    },
+    {
+        "section": "WinMario CO: Assets",
+        "people": [
+            { 
+                "name": "VoidEyedPanda", 
+                "role": "A.G.O.T.I. Sonic",
+                "link": "https://gamebanana.com/members/1965633",
+                "color": "808080"
+            },
+            { 
+                "name": "RedstyPhoenix", 
+                "role": "A.G.O.T.I. Sonic (Assistant Animator)",
+                "link": "https://gamebanana.com/members/1846470",
+                "color": "808080"
+            },
+            { 
+                "name": "(studio) MamaCita's", 
+                "role": "Baldi & 1 BG asset (from Bald's Basics Madness)\n(edited by me)",
+                "link": "https://gamebanana.com/studios/38158",
+                "color": "808080"
+            },
+            { 
+                "name": "(studio) The Teachers' Lounge!", 
+                "role": "Baldi Icon",
+                "link": "https://www.the-teachers-lounge.org/index.html",
+                "color": "808080"
+            },
+            { 
+                "name": "JosephTL", 
+                "role": "64 Mario (edited by me)",
+                "link": "https://gamejolt.com/@TheLimbless",
+                "color": "808080"
+            },
+            { 
+                "name": "somenteblack", 
+                "role": "Volcano BG (edited by me)",
+                "color": "808080"
+            }
+        ]
+    },
+    {
+        "section": "WinMario CO: Soundfonts",
+        "people": [
+            { 
+                "name": "mech_electro", 
+                "role": "Sonic HD Soundfont",
+                "link": "https://gamebanana.com/members/1779845",
+                "color": "808080"
+            }
+        ]
+    }
+  ] 
+}

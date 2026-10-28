@@ -1,0 +1,115 @@
+{
+  "sections": [
+    {
+        "section": "WinMario IM",
+        "people": [
+            { 
+                "name": "sock.clip", 
+                "role": "Vs. Whitty", 
+                "link": "https://www.instagram.com/sock.clip/",
+                "color": "808080"
+            },
+            { 
+                "name": "Krea", 
+                "role": "FNF B2 Remixed ; Whitty", 
+                "link": "https://www.youtube.com/@kreagato",
+                "color": "808080"
+            },
+            { 
+                "name": "Tenzubushi", 
+                "role": "Indie Cross",
+                "link": "https://www.youtube.com/@Tenzalt",
+                "color": "808080"
+            },
+            { 
+                "name": "Anjer 2", 
+                "role": "Bad Time Remix",
+                "link": "https://www.youtube.com/@AnjerXXX",
+                "color": "808080"
+            },
+            { 
+                "name": "Hoken", 
+                "role": "Bad Time UTAU Inspiration",
+                "link": "https://www.youtube.com/@STUDIO_HOKEN",
+                "color": "808080"
+            },
+            { 
+                "name": "NonsenseNH", 
+                "role": "Vs. Nonsense",
+                "link": "https://x.com/NonsenseNH",
+                "color": "808080"
+            },
+            { 
+                "name": "JADS", 
+                "role": "Vs. Tricky",
+                "link": "https://x.com/Aw3somejds",
+                "color": "6000FF"
+            },
+            { 
+                "name": "srPerez", 
+                "role": "Vs. Shaggy",
+                "link": "https://x.com/NewSrPerez",
+                "color": "6000FF"
+            },
+            { 
+                "name": "TheOnlyVolume", 
+                "role": "Vs. Tree",
+                "link": "https://www.youtube.com/@theonlyvolume8201",
+                "color": "808080"
+            },
+            { 
+                "name": "RetroSpecter", 
+                "role": "Vs. RetroSpecter",
+                "link": "https://x.com/RetroSpecter_",
+                "color": "808080"
+            }
+        ]
+    },
+    {
+        "section": "WinMario IM: MIDIs & FLPs",
+        "people": [
+            { 
+                "name": "Krea", 
+                "role": "Ballistic", 
+                "link": "https://www.youtube.com/@kreagato",
+                "color": "808080"
+            },
+            { 
+                "name": "Kubox FNF", 
+                "role": "Bad Time", 
+                "link": "https://www.youtube.com/@kuboxfnf",
+                "color": "808080"
+            },
+            { 
+                "name": "TENMIS", 
+                "role": "Nonsensical",
+                "color": "808080"
+            },
+            { 
+                "name": "WeedLord The Monika Simp", 
+                "role": "Expurgation", 
+                "link": "https://www.youtube.com/@WeedLordTheMonikaSimp",
+                "color": "808080"
+            },
+            { 
+                "name": "Metehan Doyran - Master 48", 
+                "role": "GOD EATER", 
+                "link": "https://www.youtube.com/@Master_48",
+                "color": "808080"
+            },
+            { 
+                "name": "JuanEsquivel206", 
+                "role": "Synergy", 
+                "link": "https://www.youtube.com/@JuanEsquivel206",
+                "color": "808080"
+            },
+            { 
+                "name": "Saicronise", 
+                "role": "Ectospasm", 
+                "link": "https://www.youtube.com/@Saicronise",
+                "color": "808080"
+            }
+        ]
+    }
+  ] 
+}

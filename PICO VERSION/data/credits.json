@@ -1,0 +1,24 @@
+{
+    "section": "Vs. WinMario: Pico Version",
+    "people": [
+        { 
+            "name": "Spooky Mix", 
+            "role": "Creator of Pico Sprite (Spooky)", 
+            "link": "https://gamebanana.com/mods/551727",
+            "color": "808080"
+        },
+        { 
+            "name": "Rozebud", 
+            "role": "Creator of Nene Sprite (Spooky)", 
+            "icon": "rozebud",
+            "link": "https://www.youtube.com/@Rozebud",
+            "color": "6000FF"
+        },
+        { 
+            "name": "burber", 
+            "role": "Eggnog Erect MIDI",
+            "link": "https://www.youtube.com/@KpW_BobereQ",
+            "color": "808080"
+        }
+    ]    
+}
